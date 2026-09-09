@@ -101,6 +101,54 @@ Each of these is a rung-sharpener for Band V: when a dated instance
 shows one in the field, the corresponding rung stops being
 `[construction]`. Chapter V holds the index.
 
+## Anatomy: the unmanned rear (logistics eats the tail first)
+
+Combat gets the footage; logistics decides which footage is possible.
+The rear automates first because nothing there shoots back - every
+convoy driver removed is a casualty that cannot happen, which makes
+the approval envelope widest where the cargo is most boring. Shape
+and tradeoffs only, per Rule 2.
+
+- **Bot trucks and low-slung UGVs.** Supplies move from rear dumps to
+  forward caches on small unmanned ground vehicles - low profile, no
+  cab, no crew compartment, no driver to kill. The engineering trade is
+  the dogbot's writ large: delete everything shaped like a human and
+  spend the mass on cargo and batteries. `[construction: dated unit
+  fielding needed]`.
+- **Casualty evacuation, both directions.** The same chassis carries
+  stretchers out - and carries damaged bots back. The second half
+  matters more than the first for the ledger: a force that recovers
+  its machines learns faster than a force that buries them, because
+  every recovered unit is a forensic record of what the enemy did.
+  Human medevac by UGV exists in dated reporting `[construction:
+  cite]; machine recovery is inferred from repair throughput, grade
+  accordingly.
+- **Seaborne unmanned strike.** Ukraine's uncrewed surface vessels
+  against the Russian Black Sea fleet are the most documented unmanned
+  campaign of the war - public record, hulls on camera, fleet
+  withdrawals on the map. The rung-relevant fact is institutional, not
+  tactical: a navy without sailors imposed sea denial on a navy with
+  them. Cheap attack submersibles are the underwater extension of the
+  same ledger `[construction: field evidence needed, kept at
+  existence-and-effect level]`.
+- **Airborne resupply and the loitering depot.** Heavy-lift multicopters
+  move kilograms, not tons - blood, batteries, fiber spools - to treeline
+  caches, and loitering platforms stage from depots in the woods rather
+  than airfields. The airfield was the twentieth century's chokepoint;
+  dispersal into tree cover dissolves it. No procedures here; the
+  observable is satellite-visible dispersal, countable by anyone.
+- **Sipping the grid.** High-voltage lines leak magnetic fields, and a
+  hovering platform can couple to them inductively - resonant inductive
+  coupling is 2000s-public physics (MIT work onward), not a secret.
+  Whether anyone fields it at scale is `[construction: no dated
+  instance; watch recovery forensics and power-anomaly reporting]`.
+  Included because the day it appears, endurance math for the whole
+  loitering fleet changes - and this book prices endurance, not motors.
+
+The pattern across all five: the tail unmans before the teeth, because
+the tail's approval envelope is widest. Any ladder that watches only
+trigger-pullers will mislocate the present by years. Watch the trucks.
+
 ## Status
 
 `[construction]` - bands drafted, rungs unnumbered. Fill from Ch V facts.

@@ -34,6 +34,17 @@ old entries, append.
   either side, read for control structure (who decided the flank),
   not for tactics.
 
+## Logistics seeds (all `[construction]` until dated)
+
+- UGV resupply runs (rear-to-cache): needs unit fielding evidence;
+  count chassis, not claims.
+- UGV casualty evacuation: dated reporting exists, cite it; machine
+  recovery inferred from repair throughput, grade lower.
+- Uncrewed surface vessels vs Black Sea fleet: public record, strongest
+  rung evidence in this section - hulls, withdrawals, dates.
+- Treeline dispersal of air assets: satellite-countable, anyone can verify.
+- Grid-coupled endurance: no dated instance; watch recovery forensics.
+
 ## 2026-09-0X: fully-autonomous-drone reports + Turk reaction
 
 - UN rights chief Volker Turk "horrified" by reports of fully autonomous
