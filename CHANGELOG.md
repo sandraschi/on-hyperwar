@@ -6,15 +6,15 @@ asserted-but-uncited content per `CONTRIBUTING.md`.
 ## [v0.3] - 2026-09-10
 
 ### Added
+- Complete German translation of all 12 chapters in `chapters_de/` rendered in clinical Generalstabsdienst / Kahn-flat style.
+- Generated German standalone EPUB 3 edition: `site/de/on-hyperwar-de.epub` (61.0 KB, 12 chapters).
+- Built localized German web reader: `site/de/index.html` with bilingual language toggle and cross-edition navigation.
 - Expanded Chapter V (*Locating the Present*) to full monograph scale: empirical trajectory 2022–2026; spooled fiber-optic anti-jamming physics; DIY cruise missile strategic cost inversion ($35k vs $4M Patriot); quadruped ground reconnaissance; and UN Volker Türk reaction analysis.
 - Expanded Chapter VII (*The Control Case and Why It Fails*) to full monograph scale: operational metrics ($\Delta t_{\text{consent}}$, $R_{\text{target}}$, $H_{\text{cog}}$); sub-second rubber-stamp dugout mechanics (the moral crumple zone); weekly adaptation cadence vs annual certification; and cost-plus prime financialization resistance.
 - Expanded Chapter VIII (*Terminal States of Swarm Warfare*) to full monograph scale: taxonomic analysis of all 7 swarm endgames (Kinetic Vacuum, Hyper-Deterrence Armistice, Scorched RF, Civil-Grid Decapitation, Automated Preemption, Accidental Campaign, Soft Machine Takeover).
 - Expanded Chapter X (*The Book in the Corpus*) to full monograph scale: formalizing the coupling term between recursive AI self-improvement in frontier labs and automated kill chains in hyperwar.
-- Generated and embedded clinical technical illustrations:
-  - `site/dogbot_blueprint.jpg`: modular quadruped engineering blueprint and sensor schematic.
-  - `site/empty_battlefield_flir.jpg`: long-range thermal reconnaissance view of emptied frontline parapets.
-- Local HTML reader and standalone EPUB 3 builder (`tools/build_epub.py` and `tools/build_site.py` on port 10988).
-- Strict lorecheck verified: 44/44 rungs covered, clean exit code 0.
+- Overhauled tactical robotic quadruped design in Chapter IV: stripped all human ergonomic artifacts (no pistol grips, manual triggers, or stocks); added RQU-7 CAD patent schematic (`site/tactical_dogbot_integrated.jpg`) with electronic solenoid ignition, recessed honeycomb killflash ARD filters, and multi-chamber thermal suppressor.
+- Strict lorecheck verified: 44/44 rungs covered across both English and German editions, 0 missing, clean exit code 0.
 
 ## [v0.2] - 2026-09-09
 

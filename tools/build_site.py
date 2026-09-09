@@ -324,14 +324,16 @@ def page(title: str, body: str, prev: tuple[str, str] | None, nxt: tuple[str, st
   <style>{CSS}</style>
 </head>
 <body>
-  <nav class="top">
+    <nav class="top">
     <a href="index.html"><strong>On Hyperwar</strong></a>
     <div class="links">
+      <a href="de/index.html" class="lang-switch">Deutsch (DE)</a>
       <a href="index.html">Contents</a>
       <a href="assessment.html">Assessment</a>
       <a href="references.html">References</a>
       <a href="reisner.html">Memo Reisner</a>
-      <a class="epub-tag" href="on-hyperwar.epub" download>EPUB</a>
+      <a class="epub-tag" href="on-hyperwar.epub" download>EPUB (EN)</a>
+      <a class="epub-tag" href="de/on-hyperwar-de.epub" download style="background:#831843;color:#fbcfe8;">EPUB (DE)</a>
     </div>
   </nav>
   <main>
@@ -373,10 +375,11 @@ def main() -> int:
     for idx, (fn_html, title) in enumerate(pages):
         prev = pages[idx - 1] if idx > 0 else None
         nxt = pages[idx + 1] if idx + 1 < len(pages) else None
+        stem = files[idx][:-3]
+        wav = os.path.join(audio_dir, stem + ".wav")
+        wav = f"audio/{stem}.wav" if os.path.isfile(wav) else None
         md = open(os.path.join(CHAPTERS_DIR, files[idx]), encoding="utf-8").read()
         t2, body = md_to_html(md)
-        stem = files[idx][:-3]
-        wav = f"audio/{stem}.wav" if os.path.isfile(os.path.join(audio_dir, stem + ".wav")) else None
         open(os.path.join(out, fn_html), "w", encoding="utf-8", newline="\n").write(
             page(t2, body, prev, nxt, wav)
         )
@@ -412,9 +415,15 @@ def main() -> int:
     <p><em>Decision Speed as the Weapon</em></p>
     <p>Hyperwar is not a weapon class; it is a clock speed. Forty-four rungs mapping the slide of human release authority from in-the-loop to on-the-loop to told-afterwards.</p>
     
-    <p>
+    <p style="display:flex;gap:1rem;flex-wrap:wrap;">
       <a class="btn-box" href="on-hyperwar.epub" download>
-        &#128214; Download EPUB Edition
+        &#128214; Download EPUB (English)
+      </a>
+      <a class="btn-box" href="de/on-hyperwar-de.epub" download style="border-color:#f87171;">
+        &#128214; EPUB herunterladen (Deutsch)
+      </a>
+      <a class="btn-box" href="de/index.html">
+        &#127465;&#127466; Deutsche Webausgabe lesen
       </a>
     </p>
 
