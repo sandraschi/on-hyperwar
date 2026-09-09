@@ -132,6 +132,38 @@ that the ground combat hunter is an off-the-shelf civilian commodity. Export
 regimes that regulate military arms cannot choke the flow of commercial
 quadrupeds.
 
+```
++-------------------------------------------------------------------------+
+|              CUSTOM TACTICAL KINETIC HARNESS ARCHITECTURE               |
+|                                                                         |
+|   [Dorsal Recoil Buffer Tracks]                                         |
+|          |                                                              |
+|          +---> [3-Axis Motorized Gimbal Turret]                         |
+|          |        - Multispectral FLIR / Laser Rangefinder              |
+|          |        - High-speed digital ribbon interconnect              |
+|          |                                                              |
+|          +---> [Bullpup Kinetic Mechanism]                              |
+|                   - Recoil-damped pneumatic buffer struts               |
+|                   - High-capacity drum auto-reloader assembly           |
+|                   - Integrated optical scope with digital telemetry HUD |
+|                   - Multi-baffle acoustic & thermal flash suppressor    |
++-------------------------------------------------------------------------+
+```
+
+![Engineering Schematic of Custom Tactical Robotic Quadruped with Kinetic Module](tactical_dogbot_blueprint.jpg)
+*Figure 4.1: Exploded CAD patent schematic of purpose-built military quadruped. Features heavy carbon-composite articulated legs, sealed hydraulic knee joints, dorsal chassis recoil tracks, 3-axis electro-optical gimbal, and bullpup kinetic payload with drum-magazine auto-reloader and cylindrical suppressor.*
+
+![Fully Assembled Tactical Robotic Quadruped CAD System](tactical_quadruped_assembled.jpg)
+*Figure 4.2: Integrated system isometric view (MRQ-SYS-001). Demonstrates rigid seating of kinetic payload onto dorsal recoil buffer rails, data ribbon linking electro-optical scope to gimbal turret, and acoustic/thermal suppression shroud for low-signature autonomous overwatch.*
+
+### The Mechanical Anatomy of the Kinetic Harness
+
+When an industrial quadruped is modified for lethal perimeter overwatch and precision interdiction, the mounting hardware is governed by strict mechanical constraints:
+1. **Recoil Damping and Tipping Moments:** A quadruped firing a high-impulse kinetic munition risks tipping over if the recoil vector passes above its center of mass. The tactical chassis incorporates twin pneumatic or hydraulic recoil buffer struts along its dorsal track. Upon firing, the kinetic device slides backward 40 to 60 millimeters along the rail, dissipating peak impulse over time and transferring linear force through the chassis center into the four footpads.
+2. **The Fast Auto-Reloader Assembly:** Standard box magazines protrude downward or upward, increasing profile and fouling the gimbal's sweep. The tactical variant employs a compact, horizontal or low-slung drum-magazine feeder mechanism with automated cyclic indexing. This provides high-capacity continuous fire (50 to 100 rounds) without requiring biological manual reloading.
+3. **Electro-Optical Scope and Gimbal Turret Coupling:** Precision marksmanship at 300 to 800 meters cannot rely on fixed barrel cameras. The kinetic module features a high-magnification optical scope coupled via high-speed data ribbon to an adjacent motorized 3-axis tracking gimbal turret. The gimbal acquires, tracks, and computes ballistic lead; the scope verifies crosshair alignment; an electronic solenoid trips the sear at the exact millisecond when barrel oscillation crosses the target bounding box.
+4. **Thermal and Acoustic Suppression:** Loitering stationary hunters in crater lips are vulnerable to counter-battery acoustic triangulation and aerial thermal detection. A multi-chambered cylindrical suppressor shroud suppresses muzzle blast below the ambient artillery noise floor and cools propellant gases, eliminating the bright infrared muzzle flash that would otherwise illuminate the platform to loitering enemy FPV drones.
+
 ---
 
 ## Anatomy II: The swarm fights like a platoon, only faster
