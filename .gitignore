@@ -1,0 +1,10 @@
+# build output + audio (regenerated, large)
+site/
+*.wav
+# python
+__pycache__/
+# secrets
+.env
+# sneak-in backups
+*.bak
+*.bak.*
