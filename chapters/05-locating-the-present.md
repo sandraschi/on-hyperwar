@@ -18,6 +18,22 @@ old entries, append.
 - Shenzhen dual-use stack as the common substrate (DJI-class airframe,
   camera, Orin-class compute). Manufacturer specs only.
 
+## Swarm-shape seeds (all `[construction]` until dated)
+
+- Commercial quadruped chassis in military hands (Spot-class,
+  Unitree-class derivatives): manufacturer sales + unit footage needed.
+- Mesh C2 with no leader node: evidence grade is captured emissions or
+  doctrine documents, not claims. Decapitation-attempt failures count
+  as negative evidence worth logging.
+- Persistent station-keeping (multi-week emplaced hunters): needs dated
+  recovery/capture reporting with power-state forensics.
+- Machine-delivered surrender appeals (audio): needs dated recordings;
+  content analysis is psyops research, not this book - log existence
+  and language only.
+- Flank-and-fix swarm engagements: needs after-action reporting from
+  either side, read for control structure (who decided the flank),
+  not for tactics.
+
 ## 2026-09-0X: fully-autonomous-drone reports + Turk reaction
 
 - UN rights chief Volker Turk "horrified" by reports of fully autonomous
