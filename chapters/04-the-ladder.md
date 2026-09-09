@@ -150,19 +150,43 @@ quadrupeds.
 +-------------------------------------------------------------------------+
 ```
 
-![Engineering Schematic of Custom Tactical Robotic Quadruped with Kinetic Module](tactical_dogbot_blueprint.jpg)
-*Figure 4.1: Exploded CAD patent schematic of purpose-built military quadruped. Features heavy carbon-composite articulated legs, sealed hydraulic knee joints, dorsal chassis recoil tracks, 3-axis electro-optical gimbal, and bullpup kinetic payload with drum-magazine auto-reloader and cylindrical suppressor.*
+```
++-------------------------------------------------------------------------+
+|        PURPOSE-BUILT AUTONOMOUS KINETIC ENGAGEMENT ARCHITECTURE         |
+|                                                                         |
+|   [Direct Electronic Solenoid Receiver] (Zero Human Ergonomics)        |
+|          |                                                              |
+|          +---> [3-Axis Gyro-Stabilized Gimbal Turret]                   |
+|          |        - Multispectral FLIR / LIDAR sensor suite             |
+|          |        - Recessed honeycomb "killflash" ARD filter           |
+|          |        - Coaxial target acquisition link                     |
+|          |                                                              |
+|          +---> [Integrated Ballistic Mechanism]                         |
+|                   - Internal hydraulic recoil buffer system             |
+|                   - Coaxial low-profile drum auto-loader                |
+|                   - Direct electronic solenoid ignition                 |
+|                   - Multi-chamber thermal and gas suppressor shroud     |
++-------------------------------------------------------------------------+
+```
 
-![Fully Assembled Tactical Robotic Quadruped CAD System](tactical_quadruped_assembled.jpg)
-*Figure 4.2: Integrated system isometric view (MRQ-SYS-001). Demonstrates rigid seating of kinetic payload onto dorsal recoil buffer rails, data ribbon linking electro-optical scope to gimbal turret, and acoustic/thermal suppression shroud for low-signature autonomous overwatch.*
+![RQU-7 Advanced Autonomous Engagement Platform Patent Drawing](tactical_dogbot_integrated.jpg)
+*Figure 4.1: Technical patent CAD schematic (RQU-7 Specification Sheet 3 of 12). Demonstrates complete elimination of human ergonomic artifacts (no pistol grips, manual triggers, or stocks). Features flush-mounted box receiver with electronic solenoid ignition, dual hydraulic recoil damping, coaxial drum auto-loader, multi-chamber thermal suppressor, and 3-axis gimbal turret with recessed honeycomb killflash ARD filter.*
 
-### The Mechanical Anatomy of the Kinetic Harness
+### The Mechanical Anatomy: Stripping Human Ergonomics
 
-When an industrial quadruped is modified for lethal perimeter overwatch and precision interdiction, the mounting hardware is governed by strict mechanical constraints:
-1. **Recoil Damping and Tipping Moments:** A quadruped firing a high-impulse kinetic munition risks tipping over if the recoil vector passes above its center of mass. The tactical chassis incorporates twin pneumatic or hydraulic recoil buffer struts along its dorsal track. Upon firing, the kinetic device slides backward 40 to 60 millimeters along the rail, dissipating peak impulse over time and transferring linear force through the chassis center into the four footpads.
-2. **The Fast Auto-Reloader Assembly:** Standard box magazines protrude downward or upward, increasing profile and fouling the gimbal's sweep. The tactical variant employs a compact, horizontal or low-slung drum-magazine feeder mechanism with automated cyclic indexing. This provides high-capacity continuous fire (50 to 100 rounds) without requiring biological manual reloading.
-3. **Electro-Optical Scope and Gimbal Turret Coupling:** Precision marksmanship at 300 to 800 meters cannot rely on fixed barrel cameras. The kinetic module features a high-magnification optical scope coupled via high-speed data ribbon to an adjacent motorized 3-axis tracking gimbal turret. The gimbal acquires, tracks, and computes ballistic lead; the scope verifies crosshair alignment; an electronic solenoid trips the sear at the exact millisecond when barrel oscillation crosses the target bounding box.
-4. **Thermal and Acoustic Suppression:** Loitering stationary hunters in crater lips are vulnerable to counter-battery acoustic triangulation and aerial thermal detection. A multi-chambered cylindrical suppressor shroud suppresses muzzle blast below the ambient artillery noise floor and cools propellant gases, eliminating the bright infrared muzzle flash that would otherwise illuminate the platform to loitering enemy FPV drones.
+Early field adaptations strapped conventional assault rifles or sniper rifles onto commercial quadrupeds. This approach retained human ergonomic artifacts—pistol grips, mechanical trigger guards, cheek rests, and shoulder stocks—that add dead weight, snag on barbed wire, and elevate the center of gravity.
+
+A purpose-built autonomous kinetic platform strips every concession to human anatomy:
+1. **Direct Solenoid Ignition & Flush Box Receiver:** The weapon has no physical trigger or mechanical sear. A micro-solenoid pulse directly releases the striker or detonates an electronic primer, triggered in under 5 milliseconds upon algorithmic lead solution. The receiver is an aluminum-titanium alloy box bolted flush into the reinforced carbon-composite chassis backbone.
+2. **Coaxial Low-Profile Drum Auto-Loader:** Instead of vertical box magazines that catch on mud or obstruct the gimbal's azimuth sweep, ammunition feeds through a horizontal, low-profile drum mechanism integrated directly into the upper chassis deck.
+3. **The Recoil Dissipation Channel:** Peak kinetic impulse is absorbed by twin hydraulic buffer cylinders enclosed inside the chassis spine. The barrel assembly recoils linearly by 35 millimeters, transferring deceleration forces directly through the center of gravity into all four high-traction terrain footpads, eliminating barrel flip and tipping torque.
+
+### The Signature Problem: Surviving Hyperfast Countersnipers
+
+In the 2026 contact zone, firing a kinetic round invites an immediate counter-strike. Automated acoustic arrays and staring optical reconnaissance networks compute the origin of fire within fractions of a second. Surviving as a stationary hunter requires solving two optical and thermodynamic failure points:
+
+1. **Muzzle Flash & Thermal Blooming:** A standard rifle shot produces a high-temperature gas plume exceeding 1,200°C, creating a brilliant infrared beacon that persists on enemy thermal sensors for several seconds. The RQU-7 architecture incorporates a multi-chambered thermal suppressor shroud: propellant gases expand through progressive expansion baffles, where heat is conducted into high-surface-area aluminum heatsinks and vented as low-temperature gas through micro-perforations. The acoustic report is suppressed below the continuous rumble of frontline artillery, while the infrared flash is virtually eliminated.
+2. **Scope Lens Glint & Optical Reflection:** The most insidious signature is optical glint: sunlight or scanning laser beams reflecting off the curved front glass element of a high-magnification targeting scope. Modern automated countersniper systems continuously scan treelines and building facades with low-power pulsed lasers to detect the retro-reflection ("cat's eye effect") of opposing optics. To defeat this, the RQU-7 optics employ a **recessed honeycomb Anti-Reflection Device (ARD / "killflash")**: a deep hex-cell grid that absorbs off-axis light and prevents laser retro-reflection, accompanied by a motorized optical shutter that remains closed until 100 milliseconds before kinetic engagement.
 
 ---
 
