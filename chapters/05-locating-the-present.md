@@ -45,6 +45,16 @@ old entries, append.
 - Treeline dispersal of air assets: satellite-countable, anyone can verify.
 - Grid-coupled endurance: no dated instance; watch recovery forensics.
 
+## Emptied-battlefield seeds (all `[construction]` until dated)
+
+- Parapet exposure lethality: needs casualty-pattern analysis, not anecdote.
+- Suppression failure: after-action reports read for shooter tempo, not tactics.
+- Armor-gap hits: needs wound-pattern/medical reporting, handled as
+  materials statistics, never as aiming analysis.
+- Guided shoulder-fired munitions with autonomous terminal phase:
+  existence-and-effect only; manufacturer lineage (Javelin-class onward)
+  is public, fielding is not yet evidenced.
+
 ## 2026-09-0X: fully-autonomous-drone reports + Turk reaction
 
 - UN rights chief Volker Turk "horrified" by reports of fully autonomous

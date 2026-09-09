@@ -149,6 +149,51 @@ The pattern across all five: the tail unmans before the teeth, because
 the tail's approval envelope is widest. Any ladder that watches only
 trigger-pullers will mislocate the present by years. Watch the trucks.
 
+## Anatomy: the emptied battlefield (no man's land, literally)
+
+The twentieth century's no-man's-land was a statistical proposition:
+cross it and you *might* die. Its successor is closer to deterministic,
+and the difference is latency plus precision, both public engineering.
+
+- **The half-second parapet.** Human sensor-to-shot runs in seconds
+  (spot, shout, aim, decide, fire). Machine sensor-to-shot runs in
+  fractions of one. A soldier looking over a parapet in 2026 contests
+  a loop that completes before a human observer finishes inhaling.
+  Parapet discipline stops being doctrine and becomes physics: exposure
+  above cover is resolved against the exposed, nearly every time.
+  Readable in casualty patterns, not in claims `[construction: needs
+  dated casualty-pattern analysis]`.
+- **Superhuman fire rates, subhuman misses.** A gimballed weapon has no
+  tremor, no flinch, no fatigue curve, no adrenaline collapse after the
+  first contact. Fire rate is a servo spec; dispersion is a calibration
+  record. The combination does not produce "better soldiers." It
+  produces a different regime: aimed fire at a tempo no suppression
+  doctrine written for humans survives, because suppression assumed the
+  shooter also needs to breathe.
+- **The unprotected envelope.** Body armor is a compromise published in
+  every manufacturer's datasheet: plates over vitals, gaps everywhere
+  else - face, neck, pelvis, limbs, the joints that must bend. Precision
+  fire lands in the gaps not by genius but by geometry; a system that
+  aims at pixels rather than torsos inherits the envelope analysis for
+  free. Armor doctrine assumed human dispersion would waste most shots
+  into plates and dirt. Remove the dispersion and the compromise fails
+  open. This is materials science plus statistics, not instruction.
+- **AI RPGs and the guided shoulder.** Fire-and-forget terminal guidance
+  is 1990s public technology (Javelin-class seekers). What changes is
+  miniaturization plus autonomy of the terminal phase: shoulder-fired
+  munitions whose last hundred meters need no operator, against armor
+  designed when every RPG needed a steady human hand behind it.
+  Existence-and-effect level only `[construction: field evidence]`.
+  The rung-relevant fact is the inversion: tanks were designed against
+  guided missiles aimed by men; the men are leaving that loop first.
+
+The through-line: every defensive assumption of the last century -
+cover works, suppression works, armor suffices, ATGMs need operators -
+was calibrated against human sensorimotor limits. Machine limits differ
+by an order of magnitude or more. The battlefield empties not because
+anyone ordered it, but because presence becomes unsurvivable faster
+than doctrine updates. "No man" is not a policy. It is a measurement.
+
 ## Status
 
 `[construction]` - bands drafted, rungs unnumbered. Fill from Ch V facts.
