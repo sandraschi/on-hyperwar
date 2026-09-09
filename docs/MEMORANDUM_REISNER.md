@@ -81,7 +81,7 @@ Wir befinden uns an der Schnittstelle von **Band II zu Band III (Rasten 13–14)
 
 Ein zentraler Bestandteil unseres Werks (Kapitel IV und das Begleitkapitel *What Sci-Fi Gets Wrong*) demontiert die Mythen, die politische Entscheidungsträger lähmen:
 
-1. **Warum der Jäger ein Hund ist und kein Androide:** Bipide Roboter (Terminator-Klischee) sind energiehungrig, dynamisch instabil, stürzen bei Treffern um und sinken im ukrainischen Schwarzerde-Schlamm (*Rasputiza*) ein. Die Front konvergiert unausweichlich auf **vierbeinige Plattformen (Unitree/Spot-Klasse)**: statisch stabil, extrem niedriger Schwerpunkt, 20 cm Profil in Liegestellung, Null-Energie-Verbrauch im Ruhezustand und industrielle Stückkosten unter $10.000.
+1. **Warum der Jäger ein Hund ist und kein Androide:** Bipide Roboter (Androidentraum der Popkultur) sind energiehungrig, dynamisch instabil, stürzen bei Treffern um und sinken im ukrainischen Schwarzerde-Schlamm (*Rasputiza*) ein. Die Front konvergiert unausweichlich auf **vierbeinige Plattformen (Unitree/Spot-Klasse)**: statisch stabil, extrem niedriger Schwerpunkt, 20 cm Profil in Liegestellung, Null-Energie-Verbrauch im Ruhezustand und industrielle Stückkosten unter $10.000.
 2. **Der Schwarm kämpft wie ein Infanteriezug:** Kein zentraler „Mutterschiff“-Knoten, der durch Enthauptungsschlag eliminiert werden kann. Dezentraler Mesh-Konsens, der klassische Infanterietaktiken (*Fix and Flank*, lückenlose Einkreisung, Griffsäuberung) mit Mikrosekunden-Uhrensynchronisation ausführt.
 3. **Die Entleerung des Gefechtsfeldes:** Die Unterdrückung (*Suppression*) bricht zusammen. Ein kardanisch stabilisierter Servomotor hat keinen Puls von 180, schüttet kein Adrenalin aus und zuckt bei Beschuss nicht zusammen.
 

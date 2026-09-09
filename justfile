@@ -18,6 +18,14 @@ declaim-print FILE:
 audio FILE:
   @py -3 tools/declaim.py {{FILE}} --provider auto --voice Kore --out site/audio/{{file_stem(FILE)}}.wav --no-play
 
+# Build static HTML reader site and EPUB ebook.
+build:
+  @py -3 tools/build_site.py
+
+# Build EPUB ebook directly.
+epub:
+  @py -3 tools/build_epub.py
+
 # Build + serve the book locally (http://localhost:10988/).
 serve PORT="10988":
   @py -3 tools/build_site.py
