@@ -37,6 +37,7 @@ ORDER = [
     "08-terminal-states.md",
     "09-day-two.md",
     "10-corpus.md",
+    "side-economics-of-hyperwar.md",
     "side-what-scifi-gets-wrong.md",
 ]
 
