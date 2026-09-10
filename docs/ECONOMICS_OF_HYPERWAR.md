@@ -90,9 +90,37 @@ While the West relies on financialized primes producing small batches of exquisi
 
 ---
 
-## 5. Strategic Implications for `on-hyperwar`
+## 5. The Doctrinal Pivot: Attritable Autonomous Mass (AAM)
+
+To bridge the gap between impossible demographic manpower realities and bankrupting platform costs, Western defense planning coined the term **Attritable Autonomous Mass (AAM)** (designated in DoD initiatives as ADA2: *All-Domain Anonymously Coordinated Attritable Autonomous Systems*).
+
+```
++-------------------------------------------------------------------------+
+|                  THE THREE-TIER FORCE DESIGN TAXONOMY                   |
+|                                                                         |
+|  Tier               Examples                  Cost / Unit   Loss Policy |
+|  ────               ────────                  ───────────   ─────────── |
+|  Exquisite /        F-35, Abrams M1A2,        $10M – $120M+ Zero Loss   |
+|  Enduring           Patriot Battery, DDG-51                 Tolerated   |
+|                                                                         |
+|  Attritable         Quadruped Hunting Packs,  $5,000 –      30%–50%     |
+|  Autonomous Mass    Replicator FPV Swarms,    $50,000       Acceptable  |
+|  (AAM)              Low-Cost Cruise Airframes               per Salvo   |
+|                                                                         |
+|  Expendable         Artillery Shells,         $500 –        100% (One-  |
+|                     Mortars, Direct Rockets   $8,000        Way Use)    |
++-------------------------------------------------------------------------+
+```
+
+1. **The Replicator Initiative (Hicks, 2023–2026):** Launched by US Deputy Secretary of Defense Kathleen Hicks, *Replicator* explicitly sought to field "multiple thousands of attritable autonomous systems within 18 to 24 months" to counter PRC mass in the Western Pacific.
+2. **The Inherent Governance Contradiction:** While defense leadership promotes AAM as "mass without manpower," it refuses to admit the mathematical consequence: **Attritable Autonomous Mass cannot operate under classical human-in-the-loop doctrine.** If a commander launches 2,000 attritable drones to saturate an amphibious landing or breach an urban perimeter, fielding 2,000 operators with split-second approval tablets is logistically and cognitively impossible. AAM forces algorithmic delegation.
+
+---
+
+## 6. Strategic Implications for `on-hyperwar`
 
 This political-economic reality is not a footnote to hyperwar; it is the **accelerator of the ladder**:
 
 * **Why Western Militaries Will Be Forced into Autonomous Delegation:** Western nations cannot match the manpower or industrial production volume of peer adversaries. The only way to contest a theater flooded with hundreds of thousands of low-cost adversary drones is to remove the human bottlenecks from the defensive kill chain (Band IV: Delegated Defense) and deploy automated, mass-manufactured swarm counter-measures (Band V: Autonomous Hunting).
 * **The Coming Procurement Shock:** When the current procurement model collapses under combat contact, the transition will not be orderly. It will be a chaotic, panicked adoption of civilian tech stacks under fire, sweeping away peacetime certifications, ethical review committees, and "human-in-the-loop" mandates overnight.
+

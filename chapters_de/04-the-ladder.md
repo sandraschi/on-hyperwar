@@ -107,12 +107,47 @@ Eine zweckoptimierte autonome kinetische Plattform verzichtet auf jedes Zugestä
 2. **Koaxialer Niedrigprofil-Trommellader:** Anstelle vertikaler Stangenmagazine, die im Schlamm aufsitzen oder den Azimutbereich des Drehsystems behindern, erfolgt die Munitionszufuhr über eine flache Trommel, die direkt in das Oberdeck des Fahrgestells eingelassen ist.
 3. **Der Rückstoß-Dissipationskanal:** Die kinetische Impulsspitze wird über zwei im Rumpf liegende Hydraulikzylinder aufgenommen. Das Rohr läuft linear um 35 Millimeter zurück und leitet die Bremskräfte exakt durch den Systemschwerpunkt in alle vier griffigen Fußauflagen ein, was Mündungssteigmoment und Kippbewegungen vollständig eliminiert.
 
-### Das Signaturproblem: Überleben gegen ultraschnelle Scharfschützenabwehr
+### Die Doktrin der abnutzbaren autonomen Masse (Attritable Autonomous Mass – AAM)
 
-Im Einsatzstreifen von 2026 provoziert jeder Schuss die sofortige Gegenwirkung. Automatisierte akustische Messbasen und optische Dauerüberwachungsnetze berechnen den Abschussort in Sekundenbruchteilen. Das Überleben als stationärer Jäger erfordert die Beherrschung zweier optischer und thermodynamischer Schwachstellen:
+Das taktische Vierbeiner-Rudel ist die landgebundene Ausprägung dessen, was die westliche Streitkräfteplanung als **Attritable Autonomous Mass (AAM)** formalisiert (im Pentagon-Beschaffungswesen als ADA2 geführt: *All-Domain Anonymously Coordinated Attritable Autonomous Systems*).
 
-1. **Mündungsfeuer und thermische Aufheizung:** Ein Gewehrschuss erzeugt eine Heißgasfahne von über 1.200 °C — ein helles Infrarotsignal, das auf gegnerischen Wärmebildgeräten mehrere Sekunden nachleuchtet. Die RQU-7-Architektur verwendet einen Mehrkammer-Signaturdämpfer: Die Treibladungsgase expandieren über gestaffelte Blenden, geben ihre Wärme an großflächige Aluminium-Kühlkörper ab und treten als abgekühltes Gas über Mikroperforationen aus. Der Mündungsknall wird unter den permanenten Pegel des Artilleriefeuers gedrückt, das Infrarotsignal nahezu neutralisiert.
-2. **Objektivreflexionen und Laser-Rückstreuung:** Die verräterischste Signatur ist optisches Glitzern: Sonnenlicht oder abtastende Laserstrahlen reflektieren an der gekrümmten Frontlinse des Zielfernrohrs. Moderne automatisierte Scharfschützen-Erkennungssysteme tasten Waldränder und Fassaden permanent mit gepulsten Lasern ab, um die Retroreflexion („Katzenaugeneffekt“) gegnerischer Optiken zu detektieren. Zur Abwehr nutzt die RQU-7-Optik eine **versenkte Wabenblende (Anti-Reflection Device / ARD bzw. „Killflash“)**: Ein engmaschiges Sechseckgitter absorbiert schräg einfallendes Licht und verhindert Laserrückstrahlung. Ein motorisierter Blendendeckel öffnet sich erst 100 Millisekunden vor der Schussabgabe.
+Im klassischen Streitkräfteentwurf zerfielen Systeme strikt in *exquisit / dauerhaft* (bemannte Gefechtsfahrzeuge im zweistelligen Millionenbereich, deren Verlust politisch untragbar ist) und *verbrauchbar* (Einwegmunition). Eine AAM-Formation besetzt die entscheidende operative Mitte:
+- **Abnutzbar (Attritable):** Gefertigt aus kommerziellen Kohlefaserverbundwerkstoffen und zivilen Massen-Elektroaktoren (6.000 bis 15.000 Dollar je Einheit). Planer können beim Durchbruch Ausfallraten von 40 Prozent hinnehmen, ohne die kollektive Kampfkraft des Verbandes zu brechen.
+- **Autonom:** Schwärme von zwölf bis zwanzig Vierbeinern operieren über verteilte Mesh-Konsensprotokolle; ein einzelner menschlicher Aufseher überwacht lediglich den Gesamtrahmen, statt einzelne Plattformen zu steuern.
+- **Masse:** Sättigt gegnerische Abwehrsektoren durch schiere Zahl und permanenten Grenzdruck, wodurch die knappen Hochwert-Präzisionsabfangmittel des Verteidigers leergeschossen werden.
+
+### Anatomie I-B: Die urbane Gefechtsfacette (Mauern, Zäune und Enterhaken)
+
+Im offenen Schlamm der Schwarzerdeböden sind der tiefe Schwerpunkt und der geringe Bodendruck des Vierbeiners überlegen. Der Häuserkampf führt jedoch vertikale Hindernisse ein: Zwei Meter hohe Betonmauern, Maschendrahtzäune, S-Draht-Verhaue und eingestürzte Treppenhäuser.
+
+Befürworter humanoider Androiden führen vertikale Barrieren gern als Hauptargument für die zweibeinige Silhouette ins Feld: Eine zweibeinige Maschine mit Armen könne sich über eine Kante wuchten. Die mechanische Strafe im Gefecht ist jedoch fatal: Ein 90-kg-Zweibeiner, der auf einer Mauerkrone balanciert, bietet eine extreme Zielsilhouette und stürzt unter Beschuss unweigerlich ab.
+
+Der Vierbeiner löst das Überwinden vertikaler Barrieren nicht durch menschliche Akrobatik, sondern über zweckoptimierte mechanische Penetrationswerkzeuge:
+
+```
++-------------------------------------------------------------------------+
+|             URBANE BARRIEREN-PENETRATION: WERKZEUG vs. GLIEDMASS        |
+|                                                                         |
+|  [Rumpf-Magazin: Pyrotechnischer / pneumatischer Enterhaken-Werfer]     |
+|          | (Schießt Titan-Mehrfachanker über die Mauerkante)            |
+|          v                                                              |
+|  [Kohlefaser-Mikrowinden-Trommel (Planetengetriebe mit hohem Moment)]   |
+|          | (Zieht das 35-kg-Fahrgestell in 2,5 s die Wand hoch)         |
+|          v                                                              |
+|  [Gelenk-Fußauflagen mit ausfahrbaren Kletterspikes & Magnetelementen]  |
+|          | (Krallt sich in Beton, sichert 3-Punkt-Wandkontakt)          |
+|          v                                                              |
+|  [Lineare Schneidladungs-Breaching-Kassette]                            |
+|          | (Alternative: Zündet 400g Hohlladungsschneider durch Zäune)  |
++-------------------------------------------------------------------------+
+```
+
+![Patentzeichnung Modell UC-RQ4 Urban Breacher](urban_dogbot_breaching.jpg)
+*Abbildung 4.2: Technische Patent-CAD-Zeichnung (Modell UC-RQ4 Urban Breacher). Zeigt die vertikale Hindernisüberwindung: Rumpfmontierter pneumatisch-pyrotechnischer Enterhakenwerfer, drehmomentstarke Kohlefaser-Mikrowindentrommel, ausfahrbare Dornen-/Magnet-Kletterfüße, lineare Schneidladung und multispektrale 360°-Lidar-Suite zur Innenraum- und Trümmerfeldaufklärung.*
+
+1. **Das pneumatisch-pyrotechnische Mikrowindensystem:** Auf dem Rumpf ist eine kompakte Kartusche montiert, die einen Titan-Mehrfachanker an einer Leine aus ultrahochmolekularem Polyethylen (UHMWPE) oder Kohlefaser verschießt. Nach dem Verhaken auf der Mauerkrone zieht eine bürstenlose Winde das Fahrgestell in 2,5 Sekunden vertikal empor, während ausfahrbare Mikrospikes an den Beinen die Wandfläche greifen und ein Pendeln verhindern.
+2. **Lineare Schneidladungen:** Bei Drahtzäunen oder Gittern, bei denen das Überklettern taktisch unzweckmäßig ist, führt der Vierbeiner eine formschlüssige lineare Schneidladung an der Rumpfunterseite mit. Er presst sich flach an den Zaunfuß, löst die Ladung aus und trennt in Millisekunden eine Ein-Meter-Lücke heraus, durch die nachfolgende Einheiten ohne vertikale Exposition in den Innenhof fluten.
+3. **Treppenhäuser und Trümmerkriechen:** In zerbombten Gebäuden überwindet der Vierbeiner um 45 Grad geneigte Betonplatten durch extremes Spreizen der Gelenke im Kriechgang. Er senkt seinen Sensormast dabei unter Fensterbrüstungshöhe ab — eine Haltung, die für aufrechte Zweibeiner geometrisch unmöglich ist.
 
 ---
 

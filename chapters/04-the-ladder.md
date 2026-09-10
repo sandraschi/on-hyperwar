@@ -181,12 +181,47 @@ A purpose-built autonomous kinetic platform strips every concession to human ana
 2. **Coaxial Low-Profile Drum Auto-Loader:** Instead of vertical box magazines that catch on mud or obstruct the gimbal's azimuth sweep, ammunition feeds through a horizontal, low-profile drum mechanism integrated directly into the upper chassis deck.
 3. **The Recoil Dissipation Channel:** Peak kinetic impulse is absorbed by twin hydraulic buffer cylinders enclosed inside the chassis spine. The barrel assembly recoils linearly by 35 millimeters, transferring deceleration forces directly through the center of gravity into all four high-traction terrain footpads, eliminating barrel flip and tipping torque.
 
-### The Signature Problem: Surviving Hyperfast Countersnipers
+### The Attritable Autonomous Mass (AAM) Doctrine
 
-In the 2026 contact zone, firing a kinetic round invites an immediate counter-strike. Automated acoustic arrays and staring optical reconnaissance networks compute the origin of fire within fractions of a second. Surviving as a stationary hunter requires solving two optical and thermodynamic failure points:
+The tactical quadruped pack is the ground-domain manifestation of what defense planning formalizes as **Attritable Autonomous Mass (AAM)** (designated in Pentagon procurement as ADA2: *All-Domain Anonymously Coordinated Attritable Autonomous Systems*).
 
-1. **Muzzle Flash & Thermal Blooming:** A standard rifle shot produces a high-temperature gas plume exceeding 1,200°C, creating a brilliant infrared beacon that persists on enemy thermal sensors for several seconds. The RQU-7 architecture incorporates a multi-chambered thermal suppressor shroud: propellant gases expand through progressive expansion baffles, where heat is conducted into high-surface-area aluminum heatsinks and vented as low-temperature gas through micro-perforations. The acoustic report is suppressed below the continuous rumble of frontline artillery, while the infrared flash is virtually eliminated.
-2. **Scope Lens Glint & Optical Reflection:** The most insidious signature is optical glint: sunlight or scanning laser beams reflecting off the curved front glass element of a high-magnification targeting scope. Modern automated countersniper systems continuously scan treelines and building facades with low-power pulsed lasers to detect the retro-reflection ("cat's eye effect") of opposing optics. To defeat this, the RQU-7 optics employ a **recessed honeycomb Anti-Reflection Device (ARD / "killflash")**: a deep hex-cell grid that absorbs off-axis light and prevents laser retro-reflection, accompanied by a motorized optical shutter that remains closed until 100 milliseconds before kinetic engagement.
+In classical force design, platforms divided strictly into *exquisite/enduring* (manned combat vehicles costing millions, where zero losses can be politically tolerated) and *expendable* (one-way munitions). An AAM formation occupies the decisive operational middle:
+- **Attritable:** Fabricated from commercial carbon composites and mass-manufactured electric actuators (\$6,000–\$15,000 per unit). Planners can absorb 40% loss rates during a breach without degrading the formation's collective combat power.
+- **Autonomous:** Swarms of twelve to twenty quadrupeds operate via distributed mesh consensus protocols; one human supervisor monitors the pack envelope rather than piloting individual machines.
+- **Mass:** Saturates defensive sectors through numbers and continuous perimeter pressure, exhausting enemy precision munitions.
+
+### Anatomy I-B: The Urban Combat Wrinkle (Walls, Fences, and Grappling Hooks)
+
+In open chernozem mud, the quadruped's low center of mass and four-point ground pressure are decisive. But urban combat introduces vertical barriers: two-meter concrete perimeter walls, chain-link fences, razor-wire entanglements, and collapsed stairwells.
+
+Advocates of humanoid bipeds frequently cite vertical obstacles as the primary justification for the android form factor: a two-legged machine with arms can hoist its center of mass over a ledge. However, the mechanical penalty remains fatal: balancing a 90 kg biped atop a wall under sniper fire generates an extreme silhouette and invites a catastrophic fall.
+
+The quadruped solves vertical barrier penetration not by imitating human gymnastics, but through specialized mechanical breaching attachments:
+
+```
++-------------------------------------------------------------------------+
+|               URBAN BARRIER PENETRATION: TOOL vs. LIMB                  |
+|                                                                         |
+|  [Dorsal Canister: Pyrotechnic / Pneumatic Grappling Hook Launcher]     |
+|          | (Fires micro-titanium grappling anchor over wall lip)        |
+|          v                                                              |
+|  [Carbon-Fiber Micro-Winch Drum (High-Torque Planetary Gear)]           |
+|          | (Winches 35 kg chassis vertically up masonry face)           |
+|          v                                                              |
+|  [Articulated Footpads with Deployable Traction Spikes & Magnets]       |
+|          | (Claws concrete surface, maintaining 3-point wall friction)   |
+|          v                                                              |
+|  [Linear Shaped-Charge Breaching Kit]                                   |
+|          | (Alternative: detonates 400g directional cutter through fence)|
++-------------------------------------------------------------------------+
+```
+
+![Model UC-RQ4 Urban Breacher Patent Drawing](urban_dogbot_breaching.jpg)
+*Figure 4.2: Technical patent CAD schematic (Model UC-RQ4 Urban Breacher). Demonstrates vertical barrier mobility: dorsal pneumatic/pyrotechnic grappling hook launcher canister, high-torque carbon-fiber micro-winch drum, deployable spiked/magnetic climbing footpads, linear explosive breaching shaped charge, and multi-spectral 360° LiDAR array for subterranean and interior structure clearance.*
+
+1. **The Pneumatic/Pyrotechnic Micro-Winch System:** Mounted along the spine is a compact canister firing a multi-fluke titanium grappling anchor trailed by an ultra-high-molecular-weight polyethylene (UHMWPE) or carbon-fiber line. Upon seating over a masonry wall or parapet, an onboard high-torque brushless winch pulls the chassis up the vertical face in 2.5 seconds, while articulated legs with deployable micro-spikes claw the masonry to prevent swinging.
+2. **Linear Shaped-Charge Breaching:** For razor-wire or security fences where scaling is tactically inefficient, the quadruped carries a conformal explosive linear cutting charge on its lower hull. The robot presses flat against the fence base, arms the charge, and severs a 1-meter breach in milliseconds, allowing trailing swarm units to flood the courtyard without vertical exposure.
+3. **Interior Stairwell and Rubble Negotiation:** Inside bombed-out structures, quadrupeds navigate 45-degree collapsed concrete slabs by splaying their knees into an ultra-low crawl, lowering their sensor mast beneath windowsill level—a feat impossible for an upright biped.
 
 ---
 
