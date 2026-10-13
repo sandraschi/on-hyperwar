@@ -8,3 +8,5 @@ __pycache__/
 # sneak-in backups
 *.bak
 *.bak.*
+
+.cache/

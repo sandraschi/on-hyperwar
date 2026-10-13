@@ -1,0 +1,77 @@
+# bookkit configuration - see D:\Dev\repos\bookkit\README.md
+[book]
+slug = "on-hyperwar"
+title = "On Hyperwar"
+subtitle = "Decision Speed as the Weapon"
+author = "Sandra"
+identifier = "urn:uuid:9c45a793-253f-5c72-ad28-2f5914849c66"
+language = "en"
+port = 10988
+theme = "red"
+blurb = "Hyperwar is not a weapon class; it is a clock speed. Forty-four rungs mapping the slide of human release authority from in-the-loop to on-the-loop to told-afterwards."
+
+[chapters]
+dir = "chapters"
+order = [
+  "cold-open-variants.md",
+  "01-the-question.md",
+  "02-allen-lineage.md",
+  "03-no-equation.md",
+  "04-the-ladder.md",
+  "05-locating-the-present.md",
+  "06-thresholds.md",
+  "07-control-case.md",
+  "08-terminal-states.md",
+  "09-day-two.md",
+  "10-corpus.md",
+  "side-economics-of-hyperwar.md",
+  "side-what-scifi-gets-wrong.md",
+]
+front_matter = ["00-preface.md", "cold-open-variants.md"]
+
+[[docs]]
+src = "ASSESSMENT.md"
+out = "assessment.html"
+label = "Assessment"
+index_label = "Strategic Assessment & Methodological Evaluation"
+
+[[docs]]
+src = "REFERENCES.md"
+out = "references.html"
+label = "References"
+index_label = "Scholarly Apparatus & Academic Bibliography"
+
+[[docs]]
+src = "MEMORANDUM_REISNER.md"
+out = "reisner.html"
+label = "Memo Reisner"
+index_label = "Memorandum für Oberst dG Dr. Markus Reisner, PhD"
+
+[[docs]]
+src = "ECONOMICS_OF_HYPERWAR.md"
+out = "economics.html"
+label = "Economics"
+nav = false
+index_label = "The Political Economy of Hyperwar (Attrition & Defense-Industrial Base)"
+
+[[editions]]
+lang = "de"
+dir = "chapters_de"
+out = "de"
+title = "Über den Hyperkrieg"
+subtitle = "Entscheidungsgeschwindigkeit als Waffe"
+blurb = "Hyperkrieg ist keine Waffenklasse; es ist eine Taktfrequenz. Vierundvierzig Sprossen, die das Entgleiten menschlicher Freigabeautorität von In-the-Loop über On-the-Loop bis hin zur bloßen nachträglichen Unterrichtung abbilden."
+identifier = "urn:uuid:9c45a793-253f-5c72-ad28-2f5914849c66-de"
+epub = "on-hyperwar-de.epub"
+
+[lore]
+forbidden = ["skynet", "terminator"]
+rungs = 44
+xids = true
+ascii = true
+
+[translate]
+languages = []
+
+[dumbdown]
+levels = []
