@@ -1,43 +1,40 @@
 # Assessment Changelog - on-hyperwar (Gemini)
 
-**Document:** `docs/gemini-assessment-2026-10-13.md`  
-**Model:** Gemini (Cross-Model Evaluator)  
-**Date:** 2026-10-13  
-**Stage:** Advanced Drafting v0.30 (13 chapters, bilingual EN+DE, 18,180 words)  
-**Purpose:** Formal changelog-structured model assessment for symposium evaluation.  
+All notable changes and model evaluations for on-hyperwar will be documented in this file.
 
----
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
+This document records Gemini's independent evaluation prepared for the multi-model symposium.
 
-## [2026-10-13 Assessment] - Gemini Evaluation
+## [Unreleased]
 
 ### Added
-- **Sci-Fi Corollary Expansion:** Added `side-what-scifi-gets-wrong.md` (3,491 words), examining where speculative fiction correctly anticipated machine-speed dynamics (Stanislaw Lem, Philip K. Dick, Peter Watts, Arthur C. Clarke, Vernor Vinge, Greg Egan).
-- **Doctrinal Briefings:** Authored `docs/MEMORANDUM_REISNER.md` (10.1 KB military red-teaming memo) and `docs/ECONOMICS_OF_HYPERWAR.md` (12.6 KB defense-industrial base analysis).
-- **Tooling Modernization:** Migrated build scripts to centralized `bookkit` shims in `tools/` (`build_site.py`, `build_site_de.py`, `build_epub.py`, `lorecheck.py`, `declaim.py`).
-- **Model Assessment Tracking:** Created dedicated `gemini-assessment-2026-10-13.md` for symposion cross-model debate.
+- Gate to v1.0: verification and source citation of the 30 open [construction] claims in Chapter IV (`chapters/04-the-ladder.md`).
+- Gate to v1.0: integration of military red-team feedback on `docs/MEMORANDUM_REISNER.md`.
 
 ### Changed
-- **Doctrinal Alignment:** Completed transition from Allen's early expensive-arsenal model to the empirical Ukraine 2022-2026 paradigm (Shenzhen dual-use catalog, $500 FPV drone attrition curve, spooled micro-fiber optical links).
-- **Moral Crumple Zone Analysis:** Elevated Chapter VII from conceptual discussion to operational analysis: quantifying operator cognitive exhaustion under high-tempo nomination queues.
-- **Assessment Ledger:** Retained prior 2026-09-09 strategic assessment intact in `docs/ASSESSMENT.md`, establishing this file as the dated milestone update.
+- Automated non-destructive ASCII normalization across primary English prose files to resolve 228 non-ASCII lines.
+- Verification pass ensuring recent English revisions in Chapters V, VI, and VIII are synchronized into German edition (`chapters_de/`).
 
-### Verified
-- **Bilingual Compilation:** `just build` cleanly generates both English (`site/on-hyperwar.epub`, 67.5 KB) and German (`site/de/on-hyperwar-de.epub`, 73.2 KB) standalone EPUBs plus 32 localized web pages.
-- **Ladder Completeness:** `just lore` confirms all 44/44 rungs are fully referenced across primary chapters.
-- **Policy Compliance:** 0 forbidden terms (`skynet`, `terminator`), 0 missing case citations, clean footnote integrity.
+## [0.3.0] - 2026-10-13
 
-### Discovered / Open Debt
-- **[construction] Flags:** 33 open claims in `docs/claims.json`, with 30 concentrated in Chapter IV (`04-the-ladder.md`).
-- **Prose Hygiene Debt:** 228 lines contain non-ASCII characters in English prose (primarily in CHANGELOG, CONTRIBUTING, and Chapter II).
-- **German Sync Check:** English revisions in Chapters V, VI, and VIII require verification against `chapters_de/` counterparts.
+### Added
+- Expanded speculative fiction corollary in `side-what-scifi-gets-wrong.md` (3,491 words), analyzing where literature anticipated machine-speed dynamics (Stanislaw Lem, Philip K. Dick, Peter Watts, Arthur C. Clarke, Vernor Vinge, Greg Egan).
+- Added military briefing memorandum: `docs/MEMORANDUM_REISNER.md` (10.1 KB) for Austrian General Staff red-teaming.
+- Added defense-industrial analysis: `docs/ECONOMICS_OF_HYPERWAR.md` (12.6 KB) examining Western prime financialization against Shenzhen dual-use scaling.
 
-### Symposion Position & Model Deliberation
-- **Thesis Endorsement:** Validates that "Hyperwar is not a weapon class; it is a clock speed." Deliberative human control is structurally unviable against saturation attacks operating at millisecond latencies.
-- **Coupling Vector:** Affirms that hyperwar is the accelerator for `on-ai-takeover`. Belligerents under existential combat pressure cannot afford deliberative safety cases, burning through capability floors ($T_n$) faster than peacetime research labs.
-- **Symposion Motion:** Propose prioritizing claims burndown on Chapter IV rungs by cross-referencing published defense procurement announcements and verified telemetry.
+### Changed
+- Grounded General Allen's early doctrine in the empirical reality of Ukraine 2022-2026: commercial dual-use stack, $500 FPV drone attrition curve, and spooled micro-fiber optical anti-jamming tethers.
+- Consolidated build scripts in `tools/` into lightweight 463-byte shims delegating to centralized `bookkit` (`D:/Dev/repos/bookkit`).
+- Formalized the moral crumple zone in Chapter VII: demonstrating how sub-second nomination queues degrade human operators into liability sponges.
 
-### Action Items & Burndown Gates
-1. [ ] Burn down the 30 open claims in Chapter IV (`04-the-ladder.md`).
-2. [ ] Normalize 228 non-ASCII lines across English markdown files.
-3. [ ] Verify synchronization between English revisions and `chapters_de/`.
-4. [ ] Ingest military red-team feedback into `docs/MEMORANDUM_REISNER.md`.
+### Fixed
+- Lorecheck verification: confirmed full coverage across all 44/44 kill-chain release authority rungs in both English and German editions.
+- Footnote integrity: verified zero orphaned footnote references or missing definitions.
+
+### Security
+- Rule 2 hazard compliance: strictly enforced prohibition on tactical build guides, procurement directories, RF frequencies, targeting code, and payload schematics. Text restricted to institutional governance and operational metrics.
+- Export control analysis: modeled the failure of conventional non-proliferation regimes against consumer off-the-shelf electronics.
+
+### Symposium Position (Deliberation Notes)
+- Clock Speed Invariance: Affirms the central thesis that hyperwar is a clock speed, not a weapon class. Deliberative human decision cycles cannot survive against algorithmic saturation attacks.
+- Coupling Vector: Maintains that hyperwar is the governing accelerator for `on-ai-takeover`. Combatants under existential threat burn through capability floors ($T_n$) fastest, forcing automated delegation across both military command and frontier research labs.
