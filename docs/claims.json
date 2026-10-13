@@ -1,0 +1,299 @@
+{
+ "C-ce8eb40a": {
+  "file": "chapters/03-no-equation.md",
+  "line": 19,
+  "text": "(no context)",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-4d89ebf1": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 3,
+  "text": "**Status:** Draft 2026-09-09 (non-normative prose; rungs with dated instances cite them, the rest carry",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-8d0ba5f6": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 279,
+  "text": "ield instances confirm these behaviors in the field, the corresponding rung transitions from a theoretical possibility (",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-02a5e3e5": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 438,
+  "text": "ing.** Algorithms present an ordered list of targets based on calculated threat values; the operator accepts the order. ",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-57c1057e": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 467,
+  "text": "llation.** Munitions launch automatically on sensor trigger unless a human officer aborts within a three-second window. ",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-b7e11701": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 479,
+  "text": "enial Patrols.** USVs loiter in maritime choke points, engaging any non-friendly vessel detected inside exclusion zone. ",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-2d14d05f": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 482,
+  "text": "s scatter across an approach road and detonate exclusively when acoustic/seismic profiles match tracked combat vehicles.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-c03fa2d9": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 485,
+  "text": "e Sweeps.** Swarm enters trench system with authorization to clear all moving heat sources inside specified coordinates.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-2cb0544b": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 488,
+  "text": "t.** When friendly units are pinned, commanders widen the autonomous engagement criteria to include all armed personnel.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-a6a7f9f5": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 491,
+  "text": "ation.** Machine systems allocate scarce artillery and drone rounds across contested sectors without battalion approval.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-7369f39f": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 494,
+  "text": "** Friendly autonomous decoys draw enemy fire; secondary autonomous hunter-killers strike firing points instantaneously.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-4d029f47": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 497,
+  "text": "onvoy Self-Defense.** Supply UGVs engage ambushing personnel along transit routes without requesting release authority. ",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-f6ccf135": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 515,
+  "text": "ng shells, calculates adversary coordinates, and fires return salvos via automated howitzers before first shell impacts.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-aa9b2a7c": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 518,
+  "text": "ensive Swarms.** Autonomous interceptor drones launch from automated hives to neutralize incoming cruise missile waves. ",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-ed379449": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 521,
+  "text": " Autonomous Hopping.** EW suites alter frequencies, waveforms, and power outputs autonomously to protect infrastructure.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-63059904": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 524,
+  "text": "ucture Automated Interdiction.** Defense of power stations and dams delegated to autonomous ground turrets and air nets.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-b75ba8d1": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 527,
+  "text": " of Sensor Nodes.** Defensive systems destroy adversary reconnaissance drones before adversary strike packages can form.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-59310ba5": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 536,
+  "text": "e into deep EW sanctuaries, locate high-value targets via onboard RF/optical models, and strike without human telemetry.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-047079c5": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 539,
+  "text": "Target Auctioning.** Swarm nodes bid computationally for targets based on fuel state, weapon payload, and sensor angle. ",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-b8b65024": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 542,
+  "text": ", quadruped ground bots, and loitering munitions execute simultaneous attacks coordinated via acoustic and laser meshes.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-15bfebbf": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 545,
+  "text": "ystems track command vehicles, identify staff officer signatures, and execute strikes without headquarters confirmation.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-fb2a73e9": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 548,
+  "text": "ty Sweeps.** Uncrewed combat air vehicles (UCAVs) engage adversary aircraft in dogfights exceeding human g-force limits.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-ecbea3d9": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 551,
+  "text": "ruped weapon carriers maintain multi-week interdiction over transit routes, engaging all identified adversary personnel.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-58d319ae": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 554,
+  "text": "** Swarms enter occupied cities, systematically clear structures floor by floor, and establish autonomous control zones.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-d01897e5": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 564,
+  "text": "raft joint campaign operations, maneuver timetables, and resource allocations; human general staff reviews and approves.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-7770c635": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 567,
+  "text": "the national war economy, requisitioning civilian transport and industrial output based on real-time attrition modeling.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-6bbdf789": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 570,
+  "text": "nes calculate the precise threshold of retaliation required to deter adversary moves without triggering nuclear release.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-7b2d55f8": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 573,
+  "text": " placed under the command of an autonomous defense architecture due to communications severance or human incapacitation.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-777fc1e4": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 577,
+  "text": "nnels to establish local ceasefires, demarcation lines, and civilian evacuation corridors without political involvement.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-86f771f0": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 580,
+  "text": "r, economic, or conventional kinetic strikes against an adversary's homeland in response to detected threshold breaches.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-d7d73fe6": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 584,
+  "text": "chine systems calculate that mutual operational utility has reached zero or physical munitions inventories are depleted.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-ce56841e": {
+  "file": "chapters/06-thresholds.md",
+  "line": 39,
+  "text": "(no context)",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-c16c6aed": {
+  "file": "chapters/09-day-two.md",
+  "line": 12,
+  "text": "(no context)",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ }
+}
