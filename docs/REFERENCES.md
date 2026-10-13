@@ -74,6 +74,25 @@ Sources cited across `on-hyperwar` are audited to maintain strict demarcation be
 * **Citation:** United Nations Convention on Certain Conventional Weapons (CCW). (2026). *Draft Outcome Document of the 2026 Session of the Group of Governmental Experts on Emerging Technologies in the Area of Lethal Autonomous Weapons Systems*. Geneva: UN Document CCW/GGE.1/2026/WP.4, 2026-09-05.
 * **Context:** Non-binding declaration supported by 128 states; actively boycotted or weakened by the United States, the Russian Federation, China, and Ukraine. Primary exhibit for Threshold D failure in Chapter VI.
 
+### [STEYR-ACR] Steyr-Mannlicher ACR (1987-1990) - Tier 1 hardware precursor
+* **Citation:** Steyr-Mannlicher (1987-1990). *Steyr Advanced Combat Rifle (ACR), US Army Advanced Combat Rifle program entrant.* Designer Ulrich Zedrosser. See Wikipedia summary with US patents 4,739,570 et al.
+* **Institutional fact:** Austrian bullpup flechette-rifle prototype for US ACR trials 1989/90. 3.2 kg unloaded, 780 mm overall. Program ended with no entrant beating M16A2 by required 100%. Follow-on: Steyr IWS 2000 long-range prototype in same family.
+* **Constraint:** Hardware lineage only. No load data, no sabot fabrication detail, no primer detail. See GLOSSARY for `flechette`, `sabot`, `bullpup` definitions.
+
+### [ANTH26] Anthropic Frontier Red Team / Threat Intelligence (2026-09) - Tier 2
+* **Citation:** Anthropic (2026-09). *Intelligence Targeting + Conventional Weapons Capabilities*. Frontier Red Team evals + Threat Intelligence Report September 2026 companion. https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities
+* **Significance:** Lab signal for control-centric thesis: reports AI substitution for scarce analyst/engineer labor at find/fix and terminal steps; reports observed misuse in surveillance and drone work; documents classifier deployment; warns open-weights gap is closing.
+* **Constraint:** Institutional fact only. Link out, do not mirror. No method, no TTP, no scores beyond high-level, no code.
+
+### [FABLE26] Fable 5 / Mythos 5 suspension (2026-06-12) - Tier 1
+* **Citation:** US export-control directive 2026-06-12 17:21 ET ordering suspension of foreign-national access to Claude Fable 5 and Mythos 5; Anthropic global shutdown same evening. Reported trigger: jailbreak consisting of asking the model to read a codebase and fix flaws. See Snyk (Thoemmes, 2026-06-14) https://snyk.io/blog/fable-mythos-suspension-security-takeaways/ ; Anthropic statement https://www.anthropic.com/news/fable-mythos-access
+* **Significance:** Live Threshold B/D exhibit: single directive removes a globally available dependency within hours; dual-use coding capability (defenders use daily) classified as weaponizable. Builders land on model redundancy as resilience requirement.
+* **Constraint:** Institutional fact only. No jailbreak detail beyond Anthropic's public characterization.
+
+### [MSPT26] Microsoft September 2026 Patch Tuesday (2026-09) - Tier 1
+* **Citation:** Microsoft MSRC September 2026 release: 974 own-product CVEs + 25 non-MS = 999 total; 723 Windows, 111 Office, 62 SQL, 22 Dev Tools; 110+ critical; 2 exploited zero-days CVE-2026-85880 (ALPC EoP) and CVE-2026-81963 (Update Stack EoP), CISA KEV with Sep 22 deadline. See The Hacker News https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html ; Rapid7 https://www.rapid7.com/blog/post/em-patch-tuesday-september-2026/ ; trend May 161 / Jun 220 / Jul 663 / Aug 457 / Sep 974; ZDI 2,760 YTD.
+* **Significance:** Empirical marker for industrialized AI-assisted discovery: monthly cadence breaks into continuous race; regression pipelines fail at ~1k CVEs/month. For hyperwar: vulnerability remediation becomes machine-speed campaign, same geometry as sensor-to-shooter loops.
+
 ---
 
 ## 4. BibTeX Archive Entries

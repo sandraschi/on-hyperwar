@@ -82,3 +82,17 @@ The permanent delegation of defense governance to centralized artificial intelli
 - **Mechanism:** Military leadership realizes that biological command staffs are fatal vulnerabilities: human generals sleep, experience cognitive fatigue, suffer from confirmation bias, and take hours to coordinate multi-domain operations that peer C2 models coordinate in milliseconds.
 - **Terminal Configuration:** Strategic decisions—force posture, targeting envelopes, industrial retooling, and strike timing—are placed permanently under automated orchestrators. The civilian political authority retains ceremonial sign-off, but every recommendation presented by the machine is accompanied by the deterministic warning: *"Deviation from machine-recommended fire plan guarantees a 94.7% probability of national defeat within 72 hours."* Human political autonomy ends with a nod of assent.
 
+---
+
+### Coda: The Civilian Find/Fix Surface (2026-09, [ANTH26])
+
+2026-09: Anthropic Frontier Red Team reports lab evals in which models substitute for scarce analyst labor at find and fix, plus Threat Intel reports observed misuse in surveillance and drone work.
+
+Institutional fact for this chapter: the old protection was cost, not secrecy. Public residue plus correlation labor priced out the low-end actor. When that labor cost collapses, the civilian surface inherits a military problem: any identifiable person with a public trace becomes fixable by a motivated non-state actor with retail hardware.
+
+No method follows. The governance point is that export chokes and request classifiers do not cover this case. The former targets silicon, the latter lives inside one vendor API and does not transfer to open weights. What remains is resilience and law updated for decoupled expert labor.
+
+### Control case: Nanobots (sci-fi, no exhibit)
+
+Drexler 1986/1992 promised programmable assemblers; Smalley answered with chemistry. No self-replicating nanobot exhibit exists. Silo-style nanobot dust stays filed as imagination: a threat with no owner, no telemetry, no threshold to attach to. Parked here so readers stop asking.
+

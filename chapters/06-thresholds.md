@@ -28,6 +28,12 @@ verification hooks.
   signs does not regulate hyperwar; it locates it. Cf. Kellogg-Briand
   1928 (62 signatories, no enforcement, Manchuria 1931).
 
+## Substate gap (2026-09, [ANTH26])
+
+- Thresholds A-E assume a state owner who can be choked, audited, or shamed. Substate actors have no such owner: organized crime (e.g. yakuza-type syndicates), jihadist networks (e.g. ISIS-type), murder clubs, garage tinkerers, homebot weaponizers.
+- 2026-09 lab signal: frontier evals show find/fix labor and sim GNC iteration substituting for scarce specialists; open-weights behind frontier but concerning; request classifiers live inside one vendor API and do not transfer to local runs.
+- Reading: export chokes (compute, optics) target the top. Classifiers target the API. Neither attaches to retail airframes + local open-weights + public residue in a basement. Thresholds A-D have no hook here; Threshold E arrives first at the low end.
+
 ## Status
 
-`[construction]` - stub only. Each threshold needs a named owner.
+`[construction]` - stub only. Each threshold needs a named owner. Substate gap noted 2026-09, no state owner to name.

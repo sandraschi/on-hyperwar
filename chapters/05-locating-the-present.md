@@ -98,6 +98,7 @@ The institutional reaction from combatant states adhered strictly to the classic
 | **2025-Q3** | Autonomous quadruped robotics employed in forward trench reconnaissance and acoustic overwatch. | **Rung 16** (Persistent Station-Keeping Hunters) | Video & unit documentation verified |
 | **2026-Q1** | Massed DIY long-range composite cruise airframes saturating strategic air defense perimeters. | **Rung 14** (Asymmetric Strategic Munition Salvo) | Confirmed strikes in Russian rear |
 | **2026-09** | UN Volker Türk statement on autonomous killbots; public denial paired with sub-second approval loops. | **Rungs 18–20** (Batch Nomination & Rubber-Stamp Delegation) | Institutional admission via crisis reaction |
+| **2026-09** | Anthropic Frontier Red Team + Threat Intel Sept 2026: reports lab evals show AI substitution for scarce find/fix labor and sim GNC iteration; reports observed misuse in surveillance and drone work; deploys request classifiers; notes open-weights behind frontier but concerning. | **Rungs 10 / 18-20 context** (lab signal, not fielded) | Tier 2 lab report, institutional fact only - no method |
 
 The present is located at the precipice of Band III. The operational constraints of modern combat have rendered the single-human, single-weapon model obsolete. What comes next is the automated coordination of swarms.
 
