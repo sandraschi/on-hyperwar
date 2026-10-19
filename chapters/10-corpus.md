@@ -66,3 +66,12 @@ This monograph, together with *On AI Takeover*, rejects both postures. Swarm war
 
 By enumerating every rung from commercial FPV autotracking to fully autonomous strategic warfare, we establish the only foundation upon which meaningful control can ever be built: **the ability to identify exactly which threshold we are crossing, while human hands still retain the capacity to reach the brake.**
 
+Two later sisters share the clock, not the kill chain. *On MetaCraft*
+dates the labor-cost collapse that clones professional desktop software
+(ArtCraft, 2026-09-30 onward). Dual-use consumer stacks beating exquisite
+incumbents is the same shape as fiber FPV week versus primes. The coupling
+is analogical and institutional. This book does not discuss munitions
+software, C2 clones, or how to build them. *On Hyperart* dates the
+empty orchestra pit the way this book dates the empty battlefield: told
+afterwards, a log rather than a decision.
+
