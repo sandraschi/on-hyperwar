@@ -55,8 +55,9 @@ termination looks like at machine speed) - X The book in the corpus.
   no code. A chapter that teaches is a chapter that gets cut.
 - Style: plain declarative, dates first, Kahn-flat. Allen's 2016 paper is
   the voice ancestor, Kahn the method ancestor.
-- Sister repo: `on-ai-takeover` (same ladder method, training loops).
-  Shared tooling: `just lore`, declaim pipeline.
+- Sister repos: `on-ai-takeover` (same ladder method, training loops),
+  `on-hyperart` (aesthetic production chain), `on-metacraft` (tool
+  reimplementation cost). Shared tooling: `just lore`, declaim pipeline.
 
 ## Tooling (to be ported from on-ai-takeover at v0.2)
 
