@@ -7,7 +7,9 @@ This book leans on a book most readers have not opened. *On Thermonuclear War*
 (1960) is the source of the vocabulary - deterrence, escalation, the
 unthinkable - and the 44-rung ladder comes from *On Escalation* (1965). If you
 know Kahn, skip this. If you know the name and not the argument, this is the
-refresher.
+refresher. Acronyms and proper nouns used without full explanation -
+SIOP-62, Massive Retaliation, the Trinity test - are covered in Side -
+Glossary, in this book.
 
 ## The man
 

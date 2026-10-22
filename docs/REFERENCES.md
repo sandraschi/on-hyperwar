@@ -77,7 +77,7 @@ Sources cited across `on-hyperwar` are audited to maintain strict demarcation be
 ### [STEYR-ACR] Steyr-Mannlicher ACR (1987-1990) - Tier 1 hardware precursor
 * **Citation:** Steyr-Mannlicher (1987-1990). *Steyr Advanced Combat Rifle (ACR), US Army Advanced Combat Rifle program entrant.* Designer Ulrich Zedrosser. See Wikipedia summary with US patents 4,739,570 et al.
 * **Institutional fact:** Austrian bullpup flechette-rifle prototype for US ACR trials 1989/90. 3.2 kg unloaded, 780 mm overall. Program ended with no entrant beating M16A2 by required 100%. Follow-on: Steyr IWS 2000 long-range prototype in same family.
-* **Constraint:** Hardware lineage only. No load data, no sabot fabrication detail, no primer detail. See GLOSSARY for `flechette`, `sabot`, `bullpup` definitions.
+* **Constraint:** Hardware lineage only. No load data, no sabot fabrication detail, no primer detail. See Side - Glossary in this book for `flechette`, `sabot`, `bullpup` definitions.
 
 ### [ANTH26] Anthropic Frontier Red Team / Threat Intelligence (2026-09) - Tier 2
 * **Citation:** Anthropic (2026-09). *Intelligence Targeting + Conventional Weapons Capabilities*. Frontier Red Team evals + Threat Intelligence Report September 2026 companion. https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities
