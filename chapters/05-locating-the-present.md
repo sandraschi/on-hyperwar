@@ -2,7 +2,7 @@
 
 **Revision date: 2026-09-09.** Update on every dated fact; never rewrite old entries, append. Every claim below carries its date; undated assertions are methodological errors.
 
-![Thermal FLIR Reconnaissance of Emptied Battlefield](empty_battlefield_flir.jpg)
+`[construction: Figure 5.1 — the referenced FLIR image was never committed. Render from the caption art brief below, or cut.]`
 *Figure 5.1: Simulated long-range multispectral FLIR capture of forward positions (Rungs 21–25). Autonomous loitering FPV airframes and quadruped ground sensors loiter over uninhabited parapets. Telemetry bounding boxes indicate automated target acquisition without human line-of-sight.*
 
 ## The Placement

@@ -4,7 +4,7 @@
 
 "Human in/on the loop" certifications mostly certify paperwork: tests run on yesterday's software, envelopes defined after the fact, and overrides that no operator has the cognitive or physical latency to execute. A control case that cannot fail a fielded system under combat pressure is not a governance mechanism; it is a liability shield.
 
-![Engineering Blueprint of Quadruped Surveillance and Engagement Platform](dogbot_blueprint.jpg)
+`[construction: Figure 7.1 — the referenced blueprint image was never committed. Render from the caption art brief below, or cut.]`
 *Figure 7.1: Technical schematic of modular quadruped chassis with top-rail sensor housing, stabilized 3-axis optical tracking gimbal, and multi-spectral acoustic array. The mechanical and electronic response time ($<15\text{ ms}$) renders biological manual steering obsolete.*
 
 ---

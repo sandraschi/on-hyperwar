@@ -61,25 +61,7 @@ adaptation cycle between Ukrainian drone forces and Russian electronic warfare
 units did not unfold across the five-year timelines of Western defense
 acquisition programs. It unfolded on a **weekly tit-for-tat cadence**:
 
-```
-+-------------------------------------------------------------------------+
-|                  THE WEEKLY COMBAT ADAPTATION CYCLE                     |
-|                                                                         |
-|  [Week N]     Frontline fields analog FPV drones on 5.8 GHz.            |
-|       │                                                                 |
-|       ▼                                                                 |
-|  [Week N+1]   Adversary deploys high-power trench jammers on 5.8 GHz.   |
-|       │                                                                 |
-|       ▼                                                                 |
-|  [Week N+2]   Frontline shifts control links to dynamic 915 MHz ELRS.   |
-|       │                                                                 |
-|       ▼                                                                 |
-|  [Week N+3]   Adversary fields broad-spectrum digital noise sweeps.     |
-|       │                                                                 |
-|       ▼                                                                 |
-|  [Week N+4]   Frontline deploys onboard optical terminal homing.        |
-+-------------------------------------------------------------------------+
-```
+![The weekly combat adaptation cycle: field, jam, shift, sweep, fiber — then the next cycle](fig/weekly-cycle.svg)
 
 No procurement committee can write a Statement of Work, solicit competitive
 bids, conduct developmental testing, and award a cost-plus contract at that

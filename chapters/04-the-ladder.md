@@ -169,7 +169,7 @@ quadrupeds.
 +-------------------------------------------------------------------------+
 ```
 
-![RQU-7 Advanced Autonomous Engagement Platform Patent Drawing](tactical_dogbot_integrated.jpg)
+`[construction: Figure 4.1 — the referenced patent-drawing image was never committed. Render from the caption art brief below, or cut.]`
 *Figure 4.1: Technical patent CAD schematic (RQU-7 Specification Sheet 3 of 12). Demonstrates complete elimination of human ergonomic artifacts (no pistol grips, manual triggers, or stocks). Features flush-mounted box receiver with electronic solenoid ignition, dual hydraulic recoil damping, coaxial drum auto-loader, multi-chamber thermal suppressor, and 3-axis gimbal turret with recessed honeycomb killflash ARD filter.*
 
 ### The Mechanical Anatomy: Stripping Human Ergonomics
@@ -216,7 +216,7 @@ The quadruped solves vertical barrier penetration not by imitating human gymnast
 +-------------------------------------------------------------------------+
 ```
 
-![Model UC-RQ4 Urban Breacher Patent Drawing](urban_dogbot_breaching.jpg)
+`[construction: Figure 4.2 — the referenced patent-drawing image was never committed. Render from the caption art brief below, or cut.]`
 *Figure 4.2: Technical patent CAD schematic (Model UC-RQ4 Urban Breacher). Demonstrates vertical barrier mobility: dorsal pneumatic/pyrotechnic grappling hook launcher canister, high-torque carbon-fiber micro-winch drum, deployable spiked/magnetic climbing footpads, linear explosive breaching shaped charge, and multi-spectral 360° LiDAR array for subterranean and interior structure clearance.*
 
 1. **The Pneumatic/Pyrotechnic Micro-Winch System:** Mounted along the spine is a compact canister firing a multi-fluke titanium grappling anchor trailed by an ultra-high-molecular-weight polyethylene (UHMWPE) or carbon-fiber line. Upon seating over a masonry wall or parapet, an onboard high-torque brushless winch pulls the chassis up the vertical face in 2.5 seconds, while articulated legs with deployable micro-spikes claw the masonry to prevent swinging.
