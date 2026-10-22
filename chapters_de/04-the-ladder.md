@@ -95,7 +95,7 @@ Diese Konvergenz ist governance-relevant: Sie belegt, dass der Jäger im Bodenka
 +-------------------------------------------------------------------------+
 ```
 
-![Patentzeichnung der autonomen Wirkmittelplattform RQU-7](tactical_dogbot_integrated.jpg)
+`[construction: Abbildung 4.1 — die referenzierte Patentzeichnung wurde nie committet. Nach dem Caption-Brief unten rendern oder streichen.]`
 *Abbildung 4.1: Technische Patent-CAD-Zeichnung (RQU-7 Spezifikationsblatt 3 von 12). Zeigt die vollständige Beseitigung menschlicher Ergonomie-Relikte (keine Pistolengriffe, manuellen Abzüge oder Schulterstützen). Mit bündig eingelassenem Kasten-Verschlussgehäuse mit elektronischer Solenoid-Zündung, dualer hydraulischer Rückstoßdämpfung, koaxialem Trommel-Autolader, Mehrkammer-Signaturdämpfer und 3-Achsen-Gimbal-Turm mit versenktem Waben-Killflash-ARD-Filter.*
 
 ### Die mechanische Anatomie: Beseitigung menschlicher Ergonomie
@@ -142,7 +142,7 @@ Der Vierbeiner löst das Überwinden vertikaler Barrieren nicht durch menschlich
 +-------------------------------------------------------------------------+
 ```
 
-![Patentzeichnung Modell UC-RQ4 Urban Breacher](urban_dogbot_breaching.jpg)
+`[construction: Abbildung 4.2 — die referenzierte Patentzeichnung wurde nie committet. Nach dem Caption-Brief unten rendern oder streichen.]`
 *Abbildung 4.2: Technische Patent-CAD-Zeichnung (Modell UC-RQ4 Urban Breacher). Zeigt die vertikale Hindernisüberwindung: Rumpfmontierter pneumatisch-pyrotechnischer Enterhakenwerfer, drehmomentstarke Kohlefaser-Mikrowindentrommel, ausfahrbare Dornen-/Magnet-Kletterfüße, lineare Schneidladung und multispektrale 360°-Lidar-Suite zur Innenraum- und Trümmerfeldaufklärung.*
 
 1. **Das pneumatisch-pyrotechnische Mikrowindensystem:** Auf dem Rumpf ist eine kompakte Kartusche montiert, die einen Titan-Mehrfachanker an einer Leine aus ultrahochmolekularem Polyethylen (UHMWPE) oder Kohlefaser verschießt. Nach dem Verhaken auf der Mauerkrone zieht eine bürstenlose Winde das Fahrgestell in 2,5 Sekunden vertikal empor, während ausfahrbare Mikrospikes an den Beinen die Wandfläche greifen und ein Pendeln verhindern.

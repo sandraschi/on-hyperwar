@@ -4,7 +4,7 @@
 
 Zertifizierungen für „Mensch in/auf der Schleife“ beglaubigen zumeist Papier: Tests an gestriger Software, nachträglich definierte Einsatzgrenzen und Übersteuerungsfunktionen, für deren Ausführung keinem Bediener die kognitive oder physische Reaktionszeit zur Verfügung steht. Ein Kontrollnachweis (*Control Case*), der unter Gefechtsdruck kein im Feld befindliches System disqualifizieren kann, ist kein Steuerungsmechanismus — er ist ein juristischer Haftungsschild.
 
-![Konstruktionszeichnung einer vierbeinigen Aufklärungs- und Wirkmittelplattform](dogbot_blueprint.jpg)
+`[construction: Abbildung 7.1 — die referenzierte Blueprint-Zeichnung wurde nie committet. Nach dem Caption-Brief unten rendern oder streichen.]`
 *Abbildung 7.1: Technische Schemazeichnung eines modularen Vierbeiner-Fahrgestells mit Obergurt-Sensorgehäuse, stabilisiertem 3-Achsen-Optik-Gimbal und multispektraler Akustik-Messbasis. Die mechanische und elektronische Ansprechzeit ($< 15\text{ ms}$) macht biologische Handsteuerung obsolet.*
 
 ---

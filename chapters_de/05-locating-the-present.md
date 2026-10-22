@@ -2,7 +2,7 @@
 
 **Revisionsdatum: 09.09.2026.** Aktualisierung bei jedem datierten Faktum; alte Einträge niemals umschreiben, sondern anfügen. Jede nachfolgende Feststellung trägt ihr Datum; undatierte Behauptungen sind methodische Fehler.
 
-![Thermisches FLIR-Aufklärungsbild des entleerten Gefechtsfeldes](empty_battlefield_flir.jpg)
+`[construction: Abbildung 5.1 — das referenzierte FLIR-Bild wurde nie committet. Nach dem Caption-Brief unten rendern oder streichen.]`
 *Abbildung 5.1: Simulierte multispektrale FLIR-Weitbereichsaufnahme vorderer Stellungen (Sprossen 21–25). Autonome lauernde FPV-Flugkörper und vierbeinige Bodensensoren überwachen menschenleere Brustwehren. Telemetrie-Zielboxen belegen automatisierte Zielerfassung ohne direkte Sichtlinie eines menschlichen Bedieners.*
 
 ## Die Einordnung
