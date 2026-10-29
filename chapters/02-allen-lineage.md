@@ -1,13 +1,13 @@
-# II. Allen 2016–2024: What Survived Contact
+# II. Allen 2016-2024: What Survived Contact
 
 **Status:** Draft 2026-09-09 (non-normative prose; facts cited inline).
 
 ## The doctrine before the models and before the war
 
-In 2016, General John R. Allen — former commander of the International
+In 2016, General John R. Allen - former commander of the International
 Security Assistance Force in Afghanistan, former commander of United States
 forces in the Middle East, and subsequently president of the Brookings
-Institution — began writing about the future of combat with technologist Amir
+Institution - began writing about the future of combat with technologist Amir
 Husain.
 
 Their initial papers, published in the *United States Naval Institute
@@ -26,8 +26,7 @@ thesis was structural:
 They defined hyperwar as algorithmic warfare: conflict waged at machine speed,
 where artificial intelligence systems ingest sensor streams, identify
 targets, calculate firing solutions, coordinate distributed strikes, and
-execute combat maneuvers in fractions of a second. The traditional Boyd cycle
-— Observe, Orient, Decide, Act (the OODA loop) — which had governed military
+execute combat maneuvers in fractions of a second. The traditional Boyd cycle - Observe, Orient, Decide, Act (the OODA loop) - which had governed military
 doctrine for half a century, was about to be compressed from minutes and
 seconds into milliseconds.
 
@@ -61,7 +60,7 @@ adaptation cycle between Ukrainian drone forces and Russian electronic warfare
 units did not unfold across the five-year timelines of Western defense
 acquisition programs. It unfolded on a **weekly tit-for-tat cadence**:
 
-![The weekly combat adaptation cycle: field, jam, shift, sweep, fiber — then the next cycle](fig/weekly-cycle.svg)
+![The weekly combat adaptation cycle: field, jam, shift, sweep, fiber - then the next cycle](fig/weekly-cycle.svg)
 
 No procurement committee can write a Statement of Work, solicit competitive
 bids, conduct developmental testing, and award a cost-plus contract at that
@@ -97,15 +96,15 @@ manufactured in the Pearl River Delta:
   quadcopters, agricultural sprayers).
 * **Sensors:** Standard CMOS camera modules mass-produced for automotive
   backup systems, smartphones, and domestic security cameras.
-* **Compute:** Commercial edge-AI accelerator modules — specifically the
-  NVIDIA Jetson Orin Nano and Orin NX family — designed for commercial robotics
+* **Compute:** Commercial edge-AI accelerator modules - specifically the
+  NVIDIA Jetson Orin Nano and Orin NX family - designed for commercial robotics
   and industrial automation, delivering 40 to 100 trillion operations per
   second (TOPS) at power envelopes between 10 and 25 watts, available on open
   wholesale markets for several hundred dollars.
 
-The infrastructure of twentieth-century arms control — the International
+The infrastructure of twentieth-century arms control - the International
 Traffic in Arms Regulations (ITAR), the Missile Technology Control Regime
-(MTCR), and the Wassenaar Arrangement — was designed around specialized
+(MTCR), and the Wassenaar Arrangement - was designed around specialized
 military arsenals. It assumed that weapons of strategic consequence require
 rare, specialized materials, dedicated military foundries, and classified
 machine tools.
@@ -169,7 +168,7 @@ The drone unspools the fiber behind it as it penetrates the battlespace:
   moment of impact.
 
 The spooled fiber solved the hardest theoretical problem of modern autonomous
-warfare — contested communications — by simply rejecting the radio spectrum
+warfare - contested communications - by simply rejecting the radio spectrum
 entirely. It enabled a hybrid control regime where machine-vision models
 perform sub-second terminal guidance while a human operator in a bunker ten
 kilometers away maintains a continuous, unjammable visual link.
@@ -196,7 +195,7 @@ the software.
 ## What failed in Allen’s framework
 
 When Allen’s published doctrine is compared against the physical record of
-2022–2026, two load-bearing assumptions fail:
+2022-2026, two load-bearing assumptions fail:
 
 1. **The Assumption of State Monopoly:** Allen wrote from within the mindset
    of the United States defense establishment, assuming that hyperwar would be
@@ -229,8 +228,8 @@ who has automated the trigger.
 What survives Allen’s work is the foundational premise: **hyperwar is
 inevitable because latency is fatal.**
 
-What Allen did not provide — and what his military lineage prevented him from
-writing — is the ladder of control loss. Allen described how machines would
+What Allen did not provide - and what his military lineage prevented him from
+writing - is the ladder of control loss. Allen described how machines would
 assist soldiers; he did not describe where the soldier permanently leaves the
 equation. He showed how teaming would make armies faster; he did not map the
 forty-four rungs through which human command authority becomes a purely

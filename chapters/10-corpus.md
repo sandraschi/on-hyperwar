@@ -66,6 +66,8 @@ This monograph, together with *On AI Takeover*, rejects both postures. Swarm war
 
 By enumerating every rung from commercial FPV autotracking to fully autonomous strategic warfare, we establish the only foundation upon which meaningful control can ever be built: **the ability to identify exactly which threshold we are crossing, while human hands still retain the capacity to reach the brake.**
 
+![Operation Crossroads Baker nuclear test (Bikini Atoll, July 25, 1946). A 21-kiloton underwater detonation throws up a two-million-ton water column and Wilson condensation cloud over the target fleet. Herman Kahn argued that avoiding catastrophe requires explicit escalation ladders, not moral refusal to measure thresholds. US Department of Defense / Joint Task Force 1, public domain.](fig/nuclear-crossroads-baker.jpg)
+
 Two later sisters share the clock, not the kill chain. *On MetaCraft*
 dates the labor-cost collapse that clones professional desktop software
 (ArtCraft, 2026-09-30 onward). Dual-use consumer stacks beating exquisite

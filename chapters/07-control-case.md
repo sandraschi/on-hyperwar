@@ -4,7 +4,7 @@
 
 "Human in/on the loop" certifications mostly certify paperwork: tests run on yesterday's software, envelopes defined after the fact, and overrides that no operator has the cognitive or physical latency to execute. A control case that cannot fail a fielded system under combat pressure is not a governance mechanism; it is a liability shield.
 
-`[construction: Figure 7.1 — the referenced blueprint image was never committed. Render from the caption art brief below, or cut.]`
+![Figure 7.1: Technical schematic of modular quadruped chassis with top-rail sensor housing, stabilized 3-axis optical tracking gimbal, and multi-spectral acoustic array.](fig/tactical_dogbot_blueprint.jpg)
 *Figure 7.1: Technical schematic of modular quadruped chassis with top-rail sensor housing, stabilized 3-axis optical tracking gimbal, and multi-spectral acoustic array. The mechanical and electronic response time ($<15\text{ ms}$) renders biological manual steering obsolete.*
 
 ---
@@ -50,23 +50,23 @@ A nineteen-year-old soldier sits in a damp cellar eight kilometers behind the co
 +-------------------------------------------------------------------------+
 ```
 
-On the screen, an edge model processes a pixelated thermal video feed received via relay. The software flashes a bounding box over a dark silhouette emerging from a collapsed trench. A countdown timer ticks down: `AUTO-ENGAGE IN 0.4s — PRESS TO ABORT`.
+On the screen, an edge model processes a pixelated thermal video feed received via relay. The software flashes a bounding box over a dark silhouette emerging from a collapsed trench. A countdown timer ticks down: `AUTO-ENGAGE IN 0.4s - PRESS TO ABORT`.
 
 If the operator presses abort, the incoming munition loses its terminal vector, expends its remaining battery, and is wasted. If the target turns out to be an enemy assault team that subsequently overruns an adjacent dugout, the operator faces an official inquiry for tactical hesitation. If the operator does nothing, the munition strikes. If the strike kills a non-combatant, the post-strike legal review notes that "the system functioned under human supervisory authorization."
 
-The human operator is deployed not as a moral governor, but as an institutional "moral crumple zone"—a biological component designed to absorb legal and political liability when automated targeting produces catastrophe.
+The human operator is deployed not as a moral governor, but as an institutional "moral crumple zone" - a biological component designed to absorb legal and political liability when automated targeting produces catastrophe.
 
 ---
 
 ## 3. Why Weekly Adaptation Defeats Annual Certification
 
 Western defense procurement operates on an accreditation cycle inherited from manned aerospace:
-- Operational Requirements Document: Months 1–18.
-- Prototype Safety & Airworthiness Review: Months 19–42.
-- Developmental Testing & Red-Teaming: Months 43–60.
+- Operational Requirements Document: Months 1-18.
+- Prototype Safety & Airworthiness Review: Months 19-42.
+- Developmental Testing & Red-Teaming: Months 43-60.
 - Low-Rate Initial Production Certification: Year 6.
 
-In the 2024–2026 Ukraine theater, the electronic and software environment alters on a **seven-to-fourteen-day cadence**:
+In the 2024-2026 Ukraine theater, the electronic and software environment alters on a **seven-to-fourteen-day cadence**:
 - **Week 1:** Defender introduces frequency-hopping on the 868 MHz telemetry band.
 - **Week 2:** Attacker deploys directional yagi jammers targeting 868 MHz.
 - **Week 3:** Defender deploys lightweight neural net terminal autotracking to bypass the need for an 868 MHz uplink altogether.
@@ -81,7 +81,7 @@ A defense certification process that takes four years cannot govern an algorithm
 
 The primary institutional pushback against hyperwar does not come from ethical pacifists; it originates from within the military-industrial procurement nexus:
 
-1. **The Capital-Prime Asset Trap:** Defense primes derive their balance sheets from multi-decade, cost-plus-award-fee programs—the F-35 Joint Strike Fighter, the B-21 Raider, the Columbia-class ballistic missile submarine, and modern main battle tanks. A single manned platform represents hundreds of millions of dollars in capital allocation and hundreds of subcontracted congressional districts. A \$4,000 loitering munition manufactured from commercial drone motors and stamped aluminum threatens the core revenue model of the aerospace defense-industrial base.
+1. **The Capital-Prime Asset Trap:** Defense primes derive their balance sheets from multi-decade, cost-plus-award-fee programs - the F-35 Joint Strike Fighter, the B-21 Raider, the Columbia-class ballistic missile submarine, and modern main battle tanks. A single manned platform represents hundreds of millions of dollars in capital allocation and hundreds of subcontracted congressional districts. A \$4,000 loitering munition manufactured from commercial drone motors and stamped aluminum threatens the core revenue model of the aerospace defense-industrial base.
 2. **The "Collaborative Combat Aircraft" Compromise:** To preserve manned cockpits while acknowledging swarm reality, procurement bureaucracies invented the concept of "uncrewed loyal wingmen." The manned \$120M fifth-generation fighter remains in the air; it merely commands two or three \$15M subordinate drones. This compromise keeps the pilot employed and the aircraft prime funded, but it preserves the fatal vulnerability: the entire multi-billion-dollar architecture is still tethered to the fragile biological pilot in the sky.
 3. **The Soft Military Takeover:** The transition to full autonomy does not require an armed coup or a formal transfer of constitutional authority. It occurs through institutional path dependency. In every simulated and live engagement where autonomous algorithmic planning (swarms coordinating their own flight paths, frequency shifts, and terminal targets) is pitted against a human staff planning the strike, the autonomous planner executes within 4 seconds while the human staff takes 45 minutes to draft the fire mission. 
 

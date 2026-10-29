@@ -32,6 +32,8 @@ on distinctions: a counterforce strike is not a city strike; a limited attack is
 not an unlimited one; civil defense changes the outcome; recovery is a variable,
 not a binary.
 
+![Rapatronic camera exposure of a nuclear detonation fireball at microsecond resolution, capturing the 'rope trick' where intense thermal radiation vaporizes steel guy wires ahead of the expanding hydrodynamic shockwave. Harold Edgerton / EG&G / US Department of Energy, public domain.](fig/nuclear-rapatronic-fireball.jpg)
+
 The famous phrase is "Will the survivors envy the dead?" His answer was, in
 effect, not necessarily: if the survivors have shelter, food, medical care, and
 a functioning state, they may not. The phrase became a symbol of everything

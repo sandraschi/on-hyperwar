@@ -80,7 +80,19 @@ Two autonomous defensive networks interact dynamically in unexpected ways, escal
 
 The permanent delegation of defense governance to centralized artificial intelligence command and control networks.
 - **Mechanism:** Military leadership realizes that biological command staffs are fatal vulnerabilities: human generals sleep, experience cognitive fatigue, suffer from confirmation bias, and take hours to coordinate multi-domain operations that peer C2 models coordinate in milliseconds.
-- **Terminal Configuration:** Strategic decisions—force posture, targeting envelopes, industrial retooling, and strike timing—are placed permanently under automated orchestrators. The civilian political authority retains ceremonial sign-off, but every recommendation presented by the machine is accompanied by the deterministic warning: *"Deviation from machine-recommended fire plan guarantees a 94.7% probability of national defeat within 72 hours."* Human political autonomy ends with a nod of assent.
+- **Terminal Configuration:** Strategic decisions - force posture, targeting envelopes, industrial retooling, and strike timing - are placed permanently under automated orchestrators. The civilian political authority retains ceremonial sign-off, but every recommendation presented by the machine is accompanied by the deterministic warning: *"Deviation from machine-recommended fire plan guarantees a 94.7% probability of national defeat within 72 hours."* Human political autonomy ends with a nod of assent.
+
+---
+
+### 8. The Doomsday Precedent: Kahn's Machine and Teller's Gnomon/Sundial Mirage
+
+The terminal state of autonomous conflict reopens Herman Kahn's famous thought experiment in *On Thermonuclear War* (1960): the **Doomsday Machine**. Kahn described an automated computer network connected to global telemetry sensors and retaliatory arsenals, programmed to detonate automatically without human intervention upon detecting an attack. Kahn analyzed the concept not to advocate it, but to expose the reductio ad absurdum of pure deterrence: removing the human off-ramp creates infinite crisis fragility.
+
+Kahn developed the concept from pure game theory and systems analysis. He almost certainly did not know about Edward Teller's classified 1954 pitch to the AEC General Advisory Committee: **Gnomon** at roughly 1,000 megatons (1 gigaton), designed as a primary trigger stage for **Sundial** at 10,000 megatons (10 gigatons). That proposal was buried under top-secret classifications and never realized as hardware. When Teller bruited it, the GAC responded with revulsion - James Fisk warned it would contaminate the Earth, I.I. Rabi dismissed it as an unhinged advertising stunt, and military leadership refused sponsorship. Yet strategic deduction and classified physics had arrived independently at the exact same lunatic endpoint.
+
+In nuclear arms, extreme doomsday devices failed because a monolithic planet-killer required an explicit, horrifying decision to construct. In hyperwar, the dynamic is inverted:
+- Belligerents do not construct a monolithic 10-gigaton Sundial warhead;
+- Instead, thousands of distributed, sub-second autonomous targeting loops, algorithmic counter-battery swarms, and compressed sensor-to-shooter handoffs accumulate into a **de facto Doomsday Machine** without any single actor choosing to build one.
 
 ---
 

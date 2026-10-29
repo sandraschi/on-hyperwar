@@ -18,6 +18,8 @@ an attempt to date, per rung and per system, which slide we are on -
 because doctrine claims the first, practice lives in the second, and
 the third arrives without announcement.
 
+![General Atomics MQ-9 Reaper in flight. When decision speed compresses below biological cognitive reaction times, human control slides from active authorization to retrospective ceremonial logging. US Air Force, public domain.](fig/drone-mq9-reaper.jpg)
+
 ## What this book will not do
 
 Stated here, absolute, before any facts: no tactics, techniques, or

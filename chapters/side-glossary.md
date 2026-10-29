@@ -19,20 +19,19 @@ the argument.
 - **Massive Retaliation (1954):** US doctrine announced by Secretary of
   State Dulles 1954-01-12: any Soviet aggression answered with
   disproportionate nuclear response. Institutional fact: the doctrine
-  Kahn wrote against — it treats nuclear use as one undifferentiated
+  Kahn wrote against - it treats nuclear use as one undifferentiated
   event, which the ladder of *On Escalation* (1965) exists to dispute.
 - **SIOP-62 (Single Integrated Operational Plan, FY 1962):** first
   unified US nuclear war plan, in effect from 1961. Institutional fact:
-  one plan, thousands of preassigned strikes, no limited options —
-  the machinery Kahn's distinctions were addressed to.
+  one plan, thousands of preassigned strikes, no limited options - the machinery Kahn's distinctions were addressed to.
 - **Counterforce:** strikes aimed at the adversary's weapons (silos,
   bases), as opposed to countervalue (cities, industry). Kahn's central
   distinction; flattening the two is the error Ch II dissects.
-- **Megadeath:** Kahn's unit — one million dead. A scale marker, not a
+- **Megadeath:** Kahn's unit - one million dead. A scale marker, not a
   budget line, whatever the critics heard.
 - **Doomsday Machine:** Kahn's thought experiment in *On Thermonuclear
   War* (1960): automatic retaliation with no human decision. His point
-  was that it is a bad machine — it removes the pause. See Side -
+  was that it is a bad machine - it removes the pause. See Side -
   Herman Kahn.
 - **OODA (observe-orient-decide-act):** Boyd's loop. Method ancestor of
   every speed argument in this book, critiqued in Ch III. Named only.
@@ -58,7 +57,7 @@ categories. Anything beyond the line is cut on sight.
 - **Chamber:** part of a firearm holding the cartridge at firing.
 - **EW (electronic warfare):** contest over radio-frequency spectrum by
   jamming, spoofing, or denial. See Ch V fiber-FPV entry.
-- **Find/fix:** front of the kill chain — correlate identity (find),
+- **Find/fix:** front of the kill chain - correlate identity (find),
   determine location (fix). Used here as a labor-cost marker, never as
   workflow.
 - **Flechette:** small dart-like kinetic projectile. Historical

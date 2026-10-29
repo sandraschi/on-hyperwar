@@ -9,7 +9,7 @@
 
 Twentieth-century Western military doctrine was constructed around the concept of **technological overmatch**: the assumption that a smaller, exponentially more expensive, exquisitely engineered platform (a $120M F-35, a $10M M1A2 Abrams, a $1.1B Patriot battery) will reliably defeat larger quantities of cheaper adversary systems through superior sensor fusion and standoff range.
 
-The war in Ukraine (2022–2026) demonstrated that in a high-tempo peer conflict, **this doctrine leads directly to economic and industrial bankruptcy.**
+The war in Ukraine (2022-2026) demonstrated that in a high-tempo peer conflict, **this doctrine leads directly to economic and industrial bankruptcy.**
 
 ```
 +-------------------------------------------------------------------------+
@@ -17,9 +17,9 @@ The war in Ukraine (2022–2026) demonstrated that in a high-tempo peer conflict
 |                                                                         |
 |  The Western Interceptor Stack          The Asymmetric Strike Stack     |
 |  ─────────────────────────────          ───────────────────────────     |
-|  Patriot PAC-3 MSE: $4.5M – $6.0M       DIY Long-Range Cruise: $30k–$80k|
-|  Patriot PAC-2 GEM-T: $2.5M – $3.5M     Shahed-136 / Geran-2: $20k–$40k |
-|  NASAMS AMRAAM (AIM-120D): $1.2M – $1.8M One-Way FPV Strike: $500 – $700|
+|  Patriot PAC-3 MSE: $4.5M - $6.0M       DIY Long-Range Cruise: $30k - $80k|
+|  Patriot PAC-2 GEM-T: $2.5M - $3.5M     Shahed-136 / Geran-2: $20k - $40k |
+|  NASAMS AMRAAM (AIM-120D): $1.2M - $1.8M One-Way FPV Strike: $500 - $700|
 |                                                                         |
 |  Annual US Production: ~500 PAC-3s      Annual Strike Output: Tens of   |
 |                                         Thousands                       |
@@ -34,7 +34,7 @@ When an air defense battery fires two PAC-3 MSE interceptors ($10 million total)
 
 ## 2. The Institutional Disease: Cost-Plus and Shareholder Primacy
 
-Why does the United States national security apparatus — expending nearly **$1 trillion officially, and upwards of $1.5 to $2 trillion annually across total defense-related outlays** (including Department of Energy nuclear maintenance, intelligence budgets, and veterans' care) — struggle to produce artillery shells and interceptors?
+Why does the United States national security apparatus - expending nearly **$1 trillion officially, and upwards of $1.5 to $2 trillion annually across total defense-related outlays** (including Department of Energy nuclear maintenance, intelligence budgets, and veterans' care) - struggle to produce artillery shells and interceptors?
 
 The answer is structural: the Western Defense-Industrial Complex (DIC) is not designed to win wars of industrial attrition. **It is designed to maximize capital returns, protect stock valuations, and distribute cost-plus contracts across congressional districts.**
 
@@ -100,19 +100,19 @@ To bridge the gap between impossible demographic manpower realities and bankrupt
 |                                                                         |
 |  Tier               Examples                  Cost / Unit   Loss Policy |
 |  ────               ────────                  ───────────   ─────────── |
-|  Exquisite /        F-35, Abrams M1A2,        $10M – $120M+ Zero Loss   |
+|  Exquisite /        F-35, Abrams M1A2,        $10M - $120M+ Zero Loss   |
 |  Enduring           Patriot Battery, DDG-51                 Tolerated   |
 |                                                                         |
-|  Attritable         Quadruped Hunting Packs,  $5,000 –      30%–50%     |
+|  Attritable         Quadruped Hunting Packs,  $5,000-30% - 50%     |
 |  Autonomous Mass    Replicator FPV Swarms,    $50,000       Acceptable  |
 |  (AAM)              Low-Cost Cruise Airframes               per Salvo   |
 |                                                                         |
-|  Expendable         Artillery Shells,         $500 –        100% (One-  |
+|  Expendable         Artillery Shells,         $500-100% (One-  |
 |                     Mortars, Direct Rockets   $8,000        Way Use)    |
 +-------------------------------------------------------------------------+
 ```
 
-1. **The Replicator Initiative (Hicks, 2023–2026):** Launched by US Deputy Secretary of Defense Kathleen Hicks, *Replicator* explicitly sought to field "multiple thousands of attritable autonomous systems within 18 to 24 months" to counter PRC mass in the Western Pacific.
+1. **The Replicator Initiative (Hicks, 2023-2026):** Launched by US Deputy Secretary of Defense Kathleen Hicks, *Replicator* explicitly sought to field "multiple thousands of attritable autonomous systems within 18 to 24 months" to counter PRC mass in the Western Pacific.
 2. **The Inherent Governance Contradiction:** While defense leadership promotes AAM as "mass without manpower," it refuses to admit the mathematical consequence: **Attritable Autonomous Mass cannot operate under classical human-in-the-loop doctrine.** If a commander launches 2,000 attritable drones to saturate an amphibious landing or breach an urban perimeter, fielding 2,000 operators with split-second approval tablets is logistically and cognitively impossible. AAM forces algorithmic delegation.
 
 ---

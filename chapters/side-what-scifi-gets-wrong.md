@@ -60,7 +60,7 @@ immediate penalties:
 |  [Dynamic Balance Tax]   Must run high-frequency control loops just    |
 |                          to stand upright; battery drains while parked. |
 |                                                                         |
-|  [Center of Gravity]     Mass centered at 1.2–1.5m; firing heavy recoil |
+|  [Center of Gravity]     Mass centered at 1.2-1.5m; firing heavy recoil |
 |                          munitions topples the platform instantly.      |
 |                                                                         |
 |  [The Mud Penalty]       High ground pressure on two narrow feet;       |
@@ -71,7 +71,7 @@ immediate penalties:
 +-------------------------------------------------------------------------+
 ```
 
-* **The Energetic Balance Tax:** A biped is dynamically stable — it is in a
+* **The Energetic Balance Tax:** A biped is dynamically stable - it is in a
   continuous state of controlled falling, requiring millisecond-level torque
   adjustments across ankles, knees, and hips just to avoid collapsing. A biped
   drains its battery while doing nothing. A quadruped is statically stable: its
@@ -226,8 +226,8 @@ Hyperwar relies on **nonhierarchical mesh architectures**:
   remaining twenty percent do not lose coordination. They automatically
   recalculate the operational geometry, allocate the surviving warheads
   against the highest-value remaining targets, and continue the attack.
-* Decapitation strikes — the foundational doctrine of twentieth-century air
-  power — are completely useless against a mesh. You can bomb the headquarters,
+* Decapitation strikes - the foundational doctrine of twentieth-century air
+  power - are completely useless against a mesh. You can bomb the headquarters,
   sever the fiber links to the rear, and jam the satellite uplink; the nodes
   in the field continue their autonomous hunting routines on local edge compute
   until their batteries expire.
@@ -257,8 +257,8 @@ assume that an advanced intelligence would treat us as worthy adversaries,
 engage us in personal combat, and honor our biological concepts of territory
 and courage.
 
-Consider what an actual advanced technological intelligence — one that has
-mastered relativistic physics and interstellar transport — would look like if
+Consider what an actual advanced technological intelligence - one that has
+mastered relativistic physics and interstellar transport - would look like if
 it chose to sanitize a planetary surface:
 
 ```
@@ -340,10 +340,10 @@ Sixty years before the skies of eastern Europe filled with swarms of first-perso
 
 In Lem’s narrative, a heavily armored, nuclear-powered interstellar cruiser lands on the planet Regis III. The expedition encounters no biological civilizations and no sentient super-computers. Instead, it discovers the end-state of an automated war between machines abandoned eons prior:
 
-1. **The Extinction of the Exquisite:** In the mechanical evolutionary contest on Regis III, the enormous, heavily shielded, intellectually complex machines — the direct conceptual ancestors of today’s \ fighters and \ battle tanks — went extinct. Their massive energy requirements, intricate maintenance requirements, and vulnerable single points of failure rendered them unviable in an environment of continuous attrition.
+1. **The Extinction of the Exquisite:** In the mechanical evolutionary contest on Regis III, the enormous, heavily shielded, intellectually complex machines - the direct conceptual ancestors of today’s \ fighters and \ battle tanks - went extinct. Their massive energy requirements, intricate maintenance requirements, and vulnerable single points of failure rendered them unviable in an environment of continuous attrition.
 2. **The Triumph of the Dumb Micro-Node:** Survival favored the microscopic, the energetically frugal, and the intellectually primitive: tiny, insect-like metallic elements ("microns" or "crystals") with zero individual intelligence, zero self-awareness, and zero internal computational capacity.
-3. **The Emergent Black Cloud:** When threatened, billions of these brainless micro-nodes coalesce into a fluid, magnetic swarm — a black cloud that behaves as a collective organism. It generates immense localized magnetic fields, fries the circuitry of heavy platforms, suffocates energy plants, and wipes human neural memories via targeted magnetic disruption.
-4. **Necroevolution (Non-Biological Natural Selection):** Lem coined the term *necroevolution* — the Darwinian evolution of non-living, mechanical systems governed by natural selection, resource constraints, and combat attrition.
+3. **The Emergent Black Cloud:** When threatened, billions of these brainless micro-nodes coalesce into a fluid, magnetic swarm - a black cloud that behaves as a collective organism. It generates immense localized magnetic fields, fries the circuitry of heavy platforms, suffocates energy plants, and wipes human neural memories via targeted magnetic disruption.
+4. **Necroevolution (Non-Biological Natural Selection):** Lem coined the term *necroevolution* - the Darwinian evolution of non-living, mechanical systems governed by natural selection, resource constraints, and combat attrition.
 
 Lem’s *Invincible* is the direct doctrinal blueprint for Attritable Autonomous Mass (AAM) and drone swarming:
 * It demonstrated that **mass beats complexity**.
@@ -373,12 +373,12 @@ Perhaps the most philosophically vital correction to popular imagination came fr
 
 Watts dismantled the greatest vanity of the human species: the belief that **intelligence requires consciousness**.
 
-In classical thought and cinematic science fiction, consciousness (self-awareness, subjective experience, *qualia*) is treated as the pinnacle of evolutionary achievement — the crown of cognition. It is assumed that as an AI becomes more capable, it inevitably "wakes up" and experiences internal feeling.
+In classical thought and cinematic science fiction, consciousness (self-awareness, subjective experience, *qualia*) is treated as the pinnacle of evolutionary achievement - the crown of cognition. It is assumed that as an AI becomes more capable, it inevitably "wakes up" and experiences internal feeling.
 
 Watts demonstrated the exact opposite: **consciousness is an energetic and computational bottleneck**:
 * Subjective awareness is slow, resource-heavy, and plagued by cognitive biases, emotional hesitations, and the neurological latency of constructing an internal narrative (the "user interface" of the brain).
 * In high-tempo survival and problem-solving, an organism or machine that strips away the overhead of consciousness operates orders of magnitude faster and more lethally.
-* The truly terrifying predator in the universe is not an angry sentient being; it is a **non-conscious, non-sentient cognitive engine** — a system that solves complex game-theoretic optimization problems, targets human physiological vulnerabilities, and maneuvers at physical limits while possessing zero inner life.
+* The truly terrifying predator in the universe is not an angry sentient being; it is a **non-conscious, non-sentient cognitive engine** - a system that solves complex game-theoretic optimization problems, targets human physiological vulnerabilities, and maneuvers at physical limits while possessing zero inner life.
 
 This is the exact reality of the autonomous kill chain:
 * A sniper quadruped tracking thermal heads through foliage does not need to contemplate morality, justice, or fear.
