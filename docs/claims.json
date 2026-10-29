@@ -295,5 +295,23 @@
   "source": "",
   "checked": "",
   "opened": "2026-10-13"
+ },
+ "C-a835fb5b": {
+  "file": "chapters/side-glossary.md",
+  "line": 87,
+  "text": "verify SIOP-62 effective date, Dulles 1954-01-12 speech date, and Trinity date against REFERENCES before v1.0.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-28"
+ },
+ "C-3d8c162f": {
+  "file": "chapters/side-herman-kahn.md",
+  "line": 92,
+  "text": "verify the Kahn biography, the 1960 first edition, the Dr. Strangelove connection, and the exact rung names against the books and contemporaneous reviews before v1.0.",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-28"
  }
 }
